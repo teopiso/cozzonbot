@@ -1,0 +1,4180 @@
+{
+    "vendite": [
+        {
+            "id": "c40455bc-63d2-323f-e053-0100007fea9b",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-con-tetto-panoramico-7-posti-diesel-blu-azzurro-c40455bc-63d2-323f-e053-0100007fea9b",
+            "title": "2.2 JTD Emblema con tetto panoramico 7 posti",
+            "price": "€ 2.000",
+            "km": "220.000 km",
+            "year": "05/2004",
+            "place": "36028 Rossano Veneto - Vicenza"
+        },
+        {
+            "id": "f3a37056-32ad-44a8-8d1f-2fdd2b0430b1",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-diesel-blu-azzurro-f3a37056-32ad-44a8-8d1f-2fdd2b0430b1",
+            "title": "2.2 JTD Emblema",
+            "price": "€ 4.000",
+            "km": "175.000 km",
+            "year": "02/2004",
+            "place": "03031 Aquino - Frosinone - Fr"
+        },
+        {
+            "id": "cd2853bc-843c-8506-e053-0100007fa87e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-grigio-cd2853bc-843c-8506-e053-0100007fa87e",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 3.000",
+            "km": "196.000 km",
+            "year": "06/2006",
+            "place": "25060 brescia"
+        },
+        {
+            "id": "fd8dbfc0-4774-4364-bd0a-065875762bd1",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-blu-azzurro-fd8dbfc0-4774-4364-bd0a-065875762bd1",
+            "title": "2.2 MJT Platino",
+            "price": "€ 4.500",
+            "km": "170.000 km",
+            "year": "09/2010",
+            "place": "22079 Villa Guardia CO"
+        },
+        {
+            "id": "b806c5bc-b28d-42ce-b2b5-3893213183b6",
+            "href": "/annunci/lancia-phedra-2-2-mjt-170cv-limited-edition-diesel-lilla-b806c5bc-b28d-42ce-b2b5-3893213183b6",
+            "title": "2.2 MJT 170CV Limited Edition",
+            "price": "€ 4.350",
+            "km": "167.000 km",
+            "year": "03/2009",
+            "place": "14015 S.Damiano D'Asti - Asti - At"
+        },
+        {
+            "id": "b1c73ebc-8018-4361-e053-0100007f0245",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-nero-b1c73ebc-8018-4361-e053-0100007f0245",
+            "title": "2.2 MJT Platino",
+            "price": "€ 6.200",
+            "km": "178.000 km",
+            "year": "10/2008",
+            "place": "00100 ROMA"
+        },
+        {
+            "id": "be8e6de0-a93d-46ab-ae6f-21f083bff65d",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-executive-diesel-oro-be8e6de0-a93d-46ab-ae6f-21f083bff65d",
+            "title": "2.2JTD 16v Executive",
+            "price": "€ 7.500",
+            "km": "196.000 km",
+            "year": "02/2008",
+            "place": "48920 Portugalete"
+        },
+        {
+            "id": "399339bc-69a4-4a4d-e053-0100007f4da3",
+            "href": "/annunci/lancia-phedra-emblema-2-2-jtd-biturbo-dpf-7-sitzer-pickerl-neu-diesel-bronzo-399339bc-69a4-4a4d-e053-0100007f4da3",
+            "title": "Emblema 2,2 JTD Biturbo DPF 7-Sitzer Pickerl neu",
+            "price": "€ 2.500",
+            "km": "330.000 km",
+            "year": "10/2008",
+            "place": "2340 Mödling"
+        },
+        {
+            "id": "952430bc-1df1-fb2a-e053-0100007fa276",
+            "href": "/annunci/lancia-phedra-emblema-2-2-jtd-16v-dpf-diesel-blu-azzurro-952430bc-1df1-fb2a-e053-0100007fa276",
+            "title": "Emblema 2,2 JTD 16V DPF",
+            "price": "€ 1.900",
+            "km": "190.000 km",
+            "year": "01/2005",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "6de57aa5-b66c-4953-89e9-be62e9ffc25f",
+            "href": "/annunci/lancia-phedra-2-2-bi-turbo-hdi-170cv-fap-norwest-7-posti-webasto-diesel-grigio-6de57aa5-b66c-4953-89e9-be62e9ffc25f",
+            "title": "2.2 Bi-Turbo HDi 170cv FAP Norwest 7 Posti Webasto",
+            "price": "€ 7.800",
+            "km": "100.000 km",
+            "year": "01/2009",
+            "place": "10126 TORINO-TO"
+        },
+        {
+            "id": "879e9760-4ce3-44d2-8b82-3c327a0c855b",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-multijet-diesel-grigio-879e9760-4ce3-44d2-8b82-3c327a0c855b",
+            "title": "2.2JTD 16v Multijet",
+            "price": "€ 3.900",
+            "km": "220.000 km",
+            "year": "08/2005",
+            "place": "04230 VIATOR"
+        },
+        {
+            "id": "09ca04bc-70c5-a442-e053-0100007fd190",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-09ca04bc-70c5-a442-e053-0100007fd190",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.500",
+            "km": "246.000 km",
+            "year": "01/2005",
+            "place": "76123 Andria"
+        },
+        {
+            "id": "b10be073-2b92-43ed-a560-2877895aed2f",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-oro-b10be073-2b92-43ed-a560-2877895aed2f",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.700",
+            "km": "242.000 km",
+            "year": "10/2002",
+            "place": "52045 Foiano della Chiana – Arezzo- Ar"
+        },
+        {
+            "id": "769f03bc-bc33-414a-e053-0100007f8c2a",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-dpf-diesel-oro-769f03bc-bc33-414a-e053-0100007f8c2a",
+            "title": "Executive 2,2 JTD 16V DPF",
+            "price": "€ 3.350",
+            "km": "158.666 km",
+            "year": "01/2006",
+            "place": "2560 Berndorf"
+        },
+        {
+            "id": "aab50844-d917-4a43-8020-df55977635ea",
+            "href": "/annunci/lancia-phedra-2-0-multijet16v-limited-edition-7pl-gps-cuire-diesel-grigio-aab50844-d917-4a43-8020-df55977635ea",
+            "title": "2.0 Multijet16v Limited Edition 7pl* GPS * CUIRE *",
+            "price": "€ 2.950",
+            "km": "240.000 km",
+            "year": "06/2008",
+            "place": "4020 LIÈGE"
+        },
+        {
+            "id": "b57eecbb-8f84-0d55-e053-0100007ffb59",
+            "href": "/annunci/lancia-phedra-2-0-multijet-16v-platino-fap-diesel-grigio-b57eecbb-8f84-0d55-e053-0100007ffb59",
+            "title": "2.0 Multijet 16v Platino FAP",
+            "price": "€ 3.500 IVA deducibile",
+            "km": "213.000 km",
+            "year": "05/2009",
+            "place": "1000 Bruxelles"
+        },
+        {
+            "id": "76b2a78c-b6b9-4146-877b-2694e0b9d4cf",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-7posti-cerchi-clima-diesel-grigio-76b2a78c-b6b9-4146-877b-2694e0b9d4cf",
+            "title": "2.0 MJT 136 CV*7POSTI*CERCHI*CLIMA",
+            "price": "€ 1.490",
+            "km": "202.000 km",
+            "year": "03/2007",
+            "place": "24049 Verdello - Bergamo - Bg"
+        },
+        {
+            "id": "2f45b57b-d163-4658-8848-9b752084e798",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-dpf-emblema-vollausstattung-diesel-grigio-2f45b57b-d163-4658-8848-9b752084e798",
+            "title": "2.2 16v JTD DPF Emblema Vollausstattung",
+            "price": "€ 1.350",
+            "km": "244.135 km",
+            "year": "09/2002",
+            "place": "74182 Obersulm"
+        },
+        {
+            "id": "2c06606c-db2b-4a3d-88af-71d8f49cecee",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-blu-azzurro-2c06606c-db2b-4a3d-88af-71d8f49cecee",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 4.550",
+            "km": "202.000 km",
+            "year": "03/2010",
+            "place": "30100 Camponogara"
+        },
+        {
+            "id": "f6fbd9bb-2386-a036-e053-0100007feac2",
+            "href": "/annunci/lancia-phedra-emblema-fap-diesel-grigio-f6fbd9bb-2386-a036-e053-0100007feac2",
+            "title": "emblema fap",
+            "price": "€ 1.100",
+            "km": "239.000 km",
+            "year": "04/2002",
+            "place": "47843 MISANO ADRIATICO"
+        },
+        {
+            "id": "35bcd9bb-628d-9820-e053-0100007fe60c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-35bcd9bb-628d-9820-e053-0100007fe60c",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.000",
+            "km": "228.000 km",
+            "year": "06/2003",
+            "place": "86040 Campolieto"
+        },
+        {
+            "id": "2a5d4ca8-a7ec-4021-a06c-c20e8522bac9",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-2a5d4ca8-a7ec-4021-a06c-c20e8522bac9",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.990",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "49fdb3d4-a523-4f64-9416-1bd322898edb",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-limited-edition-diesel-grigio-49fdb3d4-a523-4f64-9416-1bd322898edb",
+            "title": "2.2 Multijet 16v DPF Limited Edition",
+            "price": "€ 1.200 IVA deducibile",
+            "km": "280.000 km",
+            "year": "09/2009",
+            "place": "68753 Waghäusel"
+        },
+        {
+            "id": "f24d1aeb-553f-45a0-8d64-e0584930c230",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-diesel-grigio-f24d1aeb-553f-45a0-8d64-e0584930c230",
+            "title": "2.2 JTD Executive",
+            "price": "€ 1.490",
+            "km": "353.819 km",
+            "year": "07/2003",
+            "place": "57122 Livorno - Li"
+        },
+        {
+            "id": "ab990e0b-ff92-4151-9c0d-3a16edbccec8",
+            "href": "/annunci/lancia-phedra-limited-edit-vele-extras-superstaat-120000-km-diesel-beige-ab990e0b-ff92-4151-9c0d-3a16edbccec8",
+            "title": "Limited Edit. vele extras superstaat !! 120000 km",
+            "price": "€ 4.750",
+            "km": "120.264 km",
+            "year": "04/2009",
+            "place": "2381 Weelde (Ravels)"
+        },
+        {
+            "id": "bfb1304b-f90a-4891-b062-d24a53a0a8a9",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-bfb1304b-f90a-4891-b062-d24a53a0a8a9",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.000",
+            "km": "288.000 km",
+            "year": "03/2008",
+            "place": "35042 Este PD"
+        },
+        {
+            "id": "373ae3ed-f510-456a-9d69-8279a46c65ec",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-emblema-diesel-nero-373ae3ed-f510-456a-9d69-8279a46c65ec",
+            "title": "2.2 Multijet 16v DPF Emblema",
+            "price": "€ 1.990",
+            "km": "205.800 km",
+            "year": "09/2008",
+            "place": "33334 Gütersloh"
+        },
+        {
+            "id": "70f15d3c-534f-442d-a3e3-d78aad4e72c9",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-gancio-traino-3-tetti-apr-diesel-grigio-70f15d3c-534f-442d-a3e3-d78aad4e72c9",
+            "title": "2.2 MJT Platino+ gancio traino+3 tetti apr.",
+            "price": "€ 6.900",
+            "km": "130.000 km",
+            "year": "07/2013",
+            "place": "10100 Torino - To"
+        },
+        {
+            "id": "ff7d3ffc-d5e6-4c69-9f33-27ad2964bd22",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-gancio-traino-3-tetti-apr-diesel-grigio-ff7d3ffc-d5e6-4c69-9f33-27ad2964bd22",
+            "title": "2.2 MJT Platino+ gancio traino+3 tetti apr.",
+            "price": "€ 6.900",
+            "km": "130.000 km",
+            "year": "07/2013",
+            "place": "10100 Torino - To"
+        },
+        {
+            "id": "79dfe53b-184d-4932-8c84-cebe71273487",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-79dfe53b-184d-4932-8c84-cebe71273487",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 2.800",
+            "km": "220.000 km",
+            "year": "12/2006",
+            "place": "20100 Milano - Mi"
+        },
+        {
+            "id": "f09d22a2-f9fc-4ae9-9f6c-b31491679489",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-oro-f09d22a2-f9fc-4ae9-9f6c-b31491679489",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.499",
+            "km": "310.000 km",
+            "year": "04/2004",
+            "place": "86100 Campobasso - CB"
+        },
+        {
+            "id": "e6a687e8-9873-461b-9ac0-31497bf72da5",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-e6a687e8-9873-461b-9ac0-31497bf72da5",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 1.800",
+            "km": "216.000 km",
+            "year": "12/2006",
+            "place": "10127 Torino"
+        },
+        {
+            "id": "85ef103a-f839-4140-8376-882e789c2f11",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-85ef103a-f839-4140-8376-882e789c2f11",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 1.800",
+            "km": "216.000 km",
+            "year": "12/2006",
+            "place": "10127 Torino"
+        },
+        {
+            "id": "969b949b-6809-4467-b0f4-069be0e2816b",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-969b949b-6809-4467-b0f4-069be0e2816b",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.990",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "95bf68af-c806-4a50-8f3e-3a32038d523d",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-7-posti-tetto-panoramico-diesel-blu-azzurro-95bf68af-c806-4a50-8f3e-3a32038d523d",
+            "title": "Phedra 2.0 mjt 7 posti tetto panoramico",
+            "price": "€ 3.990",
+            "km": "129.000 km",
+            "year": "05/2007",
+            "place": "10098 Rivoli - Torino"
+        },
+        {
+            "id": "001a0e66-1cd8-441c-9ed5-bf1663a9a410",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-executive-diesel-grigio-001a0e66-1cd8-441c-9ed5-bf1663a9a410",
+            "title": "2.2JTD 16v Executive",
+            "price": "€ 3.900",
+            "km": "220.000 km",
+            "year": "02/2005",
+            "place": "8210 BARBERA DEL VALLES"
+        },
+        {
+            "id": "6a110b09-65fa-48fb-baf2-f5c711b4b5a6",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-7-posti-diesel-grigio-6a110b09-65fa-48fb-baf2-f5c711b4b5a6",
+            "title": "2.0 MJT 136 CV Emblema 7 posti",
+            "price": "€ 1.990",
+            "km": "252.000 km",
+            "year": "11/2006",
+            "place": "45014 Porto Viro - Rovigo - Ro"
+        },
+        {
+            "id": "a0151867-69be-4e2e-b5a9-1c2c410e2cea",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-diesel-grigio-a0151867-69be-4e2e-b5a9-1c2c410e2cea",
+            "title": "2.2 JTD Executive",
+            "price": "€ 1.490",
+            "km": "353.819 km",
+            "year": "07/2003",
+            "place": "57122 Livorno - Li"
+        },
+        {
+            "id": "49dc7459-d103-4184-8c36-a379e8f9e50a",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-argento-49dc7459-d103-4184-8c36-a379e8f9e50a",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 3.950",
+            "km": "220.000 km",
+            "year": "09/2007",
+            "place": "10020 Riva presso Chieri"
+        },
+        {
+            "id": "d569efbc-04da-0a77-e053-0100007fd739",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-blu-azzurro-d569efbc-04da-0a77-e053-0100007fd739",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 5.300",
+            "km": "101.000 km",
+            "year": "01/2008",
+            "place": "00153 Roma"
+        },
+        {
+            "id": "0d345aef-6265-4a11-8f9b-50cf62b32bdd",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-0d345aef-6265-4a11-8f9b-50cf62b32bdd",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.990",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "3b0045a5-42be-49e3-9854-d02f3b5b398c",
+            "href": "/annunci/lancia-phedra-2-2-mjt-automatica-oro-plus-full-optional-diesel-rosso-3b0045a5-42be-49e3-9854-d02f3b5b398c",
+            "title": "2.2 MJT AUTOMATICA ORO PLUS FULL OPTIONAL",
+            "price": "€ 3.900",
+            "km": "223.800 km",
+            "year": "09/2009",
+            "place": "41037 Mirandola - Modena - Mo"
+        },
+        {
+            "id": "2f7a0096-05ec-4704-ba68-f8dee99159fd",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-bronzo-2f7a0096-05ec-4704-ba68-f8dee99159fd",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.400",
+            "km": "230.000 km",
+            "year": "01/2006",
+            "place": "31044 Montebelluna"
+        },
+        {
+            "id": "fd7d8699-862c-43ba-89cf-7cbc83a63f63",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-emblema-7-sitz-navi-klimaauto-diesel-fd7d8699-862c-43ba-89cf-7cbc83a63f63",
+            "title": "2.2 16v JTD Emblema 7-SITZ*NAVI*KLIMAAUTO",
+            "price": "€ 2.950",
+            "km": "217.600 km",
+            "year": "09/2006",
+            "place": "73240 Wendlingen"
+        },
+        {
+            "id": "881a157a-1b46-4be0-b228-016ecb9645aa",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-881a157a-1b46-4be0-b228-016ecb9645aa",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 690",
+            "km": "266.000 km",
+            "year": "09/2004",
+            "place": "33010 Tavagnacco - Udine - Ud"
+        },
+        {
+            "id": "3d982549-6996-40ac-b6c5-b243031c64ad",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-7-posti-navigatore-sat-diesel-blu-azzurro-3d982549-6996-40ac-b6c5-b243031c64ad",
+            "title": "2.0 MJT 136 CV - 7 POSTI - NAVIGATORE SAT.",
+            "price": "€ 3.500",
+            "km": "209.000 km",
+            "year": "07/2008",
+            "place": "10044 Alpignano - Torino - To"
+        },
+        {
+            "id": "a67c1cbd-75a3-4e4d-e053-0100007fc161",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-a67c1cbd-75a3-4e4d-e053-0100007fc161",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1.200",
+            "km": "165.000 km",
+            "year": "11/2005",
+            "place": "00144 Roma"
+        },
+        {
+            "id": "9c8d1ebd-7862-881d-e053-0100007fb521",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-blu-azzurro-9c8d1ebd-7862-881d-e053-0100007fb521",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 4.000",
+            "km": "150.000 km",
+            "year": "10/2006",
+            "place": "12033 Moretta"
+        },
+        {
+            "id": "2e593631-dca9-4131-8ff3-defdf104d0aa",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-2e593631-dca9-4131-8ff3-defdf104d0aa",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.999",
+            "km": "312.000 km",
+            "year": "06/2009",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "64cce6d2-319c-4f07-9422-f3497e9d19d3",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-64cce6d2-319c-4f07-9422-f3497e9d19d3",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "b41f2ebd-710b-da23-e053-0100007f7562",
+            "href": "/annunci/lancia-phedra-3-0-24v-v6-emblema-benzina-blu-azzurro-b41f2ebd-710b-da23-e053-0100007f7562",
+            "title": "3.0-24V V6 Emblema",
+            "price": "€ 1.000",
+            "km": "203.000 km",
+            "year": "06/2003",
+            "place": "6374AB landgraaf"
+        },
+        {
+            "id": "e17fa3cd-4908-4986-a871-58c2c2b81569",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-argento-diesel-grigio-e17fa3cd-4908-4986-a871-58c2c2b81569",
+            "title": "2.0 MJT 136 CV Argento",
+            "price": "€ 4.300",
+            "km": "237.714 km",
+            "year": "09/2010",
+            "place": "89900 Vibo Valentia - Vv"
+        },
+        {
+            "id": "64f55841-4e2c-4013-8443-e581ac3281b7",
+            "href": "/annunci/lancia-phedra-autom-limited-edition-garanzia-lancia-24-mesi-diesel-64f55841-4e2c-4013-8443-e581ac3281b7",
+            "title": "AUTOM LIMITED EDITION**GARANZIA LANCIA 24 MESI\"\"",
+            "price": "€ 9.998",
+            "km": "80.000 km",
+            "year": "07/2009",
+            "place": "89020 Sinopoli - Reggio Calabria"
+        },
+        {
+            "id": "07056cb4-c321-4efa-a473-b18ef198e1a1",
+            "href": "/annunci/lancia-phedra-2-2-jtd-7-posti-pelle-sensori-clima-radio-diesel-argento-07056cb4-c321-4efa-a473-b18ef198e1a1",
+            "title": "2.2 JTD 7 POSTI PELLE SENSORI CLIMA RADIO",
+            "price": "€ 999",
+            "km": "262.000 km",
+            "year": "06/2003",
+            "place": "62015 Monte San Giusto - Macerata - Mc"
+        },
+        {
+            "id": "ee4f47bd-5a6e-2e70-e053-0100007f1118",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-oro-ee4f47bd-5a6e-2e70-e053-0100007f1118",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.500",
+            "km": "250.000 km",
+            "year": "08/2006",
+            "place": "31040 CESSALTO"
+        },
+        {
+            "id": "b38cc890-e85e-4d5b-bbd4-9fa7ce13c833",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-diesel-nero-b38cc890-e85e-4d5b-bbd4-9fa7ce13c833",
+            "title": "2.2 MJT CA Oro",
+            "price": "€ 2.999",
+            "km": "190.000 km",
+            "year": "06/2008",
+            "place": "10147 Torino"
+        },
+        {
+            "id": "e19ef54c-2011-47f0-9c0d-5c05c035420c",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-grigio-e19ef54c-2011-47f0-9c0d-5c05c035420c",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 7.900",
+            "km": "53.000 km",
+            "year": "03/2009",
+            "place": "15121 Alessandria"
+        },
+        {
+            "id": "210b7ac4-3beb-47d7-bce5-50ae17a9c10b",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-bronzo-210b7ac4-3beb-47d7-bce5-50ae17a9c10b",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 4.900",
+            "km": "240.000 km",
+            "year": "07/2010",
+            "place": "20100 Milano"
+        },
+        {
+            "id": "5e98fc30-2308-447d-b382-5f99e6eeaeea",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-5e98fc30-2308-447d-b382-5f99e6eeaeea",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.999",
+            "km": "312.000 km",
+            "year": "06/2009",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "3dfd69bd-5196-0a4a-e053-0100007f8d37",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-argento-3dfd69bd-5196-0a4a-e053-0100007f8d37",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 1",
+            "km": "200.000 km",
+            "year": "03/2002",
+            "place": "20871 Vimercate"
+        },
+        {
+            "id": "7c62038f-b06d-4cd1-b0b5-3886453604c5",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-7c62038f-b06d-4cd1-b0b5-3886453604c5",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.999",
+            "km": "312.000 km",
+            "year": "06/2009",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "c6cdf624-706d-4573-86cc-ea7781e742c3",
+            "href": "/annunci/lancia-phedra-2-2-cdi-16v-platino-dpf-diesel-argento-c6cdf624-706d-4573-86cc-ea7781e742c3",
+            "title": "2,2 CDI 16V Platino DPF",
+            "price": "€ 5.800",
+            "km": "315.000 km",
+            "year": "11/2009",
+            "place": "1200 Wien"
+        },
+        {
+            "id": "f258f975-df22-42aa-8d12-a263401f4ddc",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-verde-f258f975-df22-42aa-8d12-a263401f4ddc",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 3.500",
+            "km": "190.000 km",
+            "year": "10/2002",
+            "place": "25050 Ossimo"
+        },
+        {
+            "id": "6fea966a-6968-4160-b222-25dbd13b8527",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-6fea966a-6968-4160-b222-25dbd13b8527",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "3df0b697-28e3-4be2-9aa2-5dd01fca831d",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-dpf-diesel-grigio-3df0b697-28e3-4be2-9aa2-5dd01fca831d",
+            "title": "Executive 2,2 JTD 16V DPF",
+            "price": "€ 1.850",
+            "km": "248.900 km",
+            "year": "09/2006",
+            "place": "5282 Braunau am Inn"
+        },
+        {
+            "id": "6bfd6fbc-bed5-48d2-8ef0-dd19d6bd368d",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-6bfd6fbc-bed5-48d2-8ef0-dd19d6bd368d",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.800",
+            "km": "201.000 km",
+            "year": "03/2004",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "1a2a95bd-0933-d236-e053-0100007f2f68",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-1a2a95bd-0933-d236-e053-0100007f2f68",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1.950",
+            "km": "254.000 km",
+            "year": "09/2004",
+            "place": "67051 Avezzano"
+        },
+        {
+            "id": "ddd73bf1-3f72-4873-bff8-6a416bbf4a33",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-argento-ddd73bf1-3f72-4873-bff8-6a416bbf4a33",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 3.950",
+            "km": "220.000 km",
+            "year": "09/2007",
+            "place": "10020 Riva presso Chieri"
+        },
+        {
+            "id": "85d13da2-5b92-470f-bcc0-e9147e60d0f4",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-85d13da2-5b92-470f-bcc0-e9147e60d0f4",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.999",
+            "km": "312.000 km",
+            "year": "06/2009",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "943e8a9f-f7c5-4151-8dbe-cc5953fc99e2",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-943e8a9f-f7c5-4151-8dbe-cc5953fc99e2",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.300",
+            "km": "209.000 km",
+            "year": "08/2004",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "91925bb2-944a-48a0-9c24-ebd8cd4636b6",
+            "href": "/annunci/lancia-phedra-2-2-mjt-cambio-automatico-platino-x-export-diesel-lilla-91925bb2-944a-48a0-9c24-ebd8cd4636b6",
+            "title": "2.2 MJT CAMBIO AUTOMATICO Platino X EXPORT",
+            "price": "€ 3.490",
+            "km": "202.819 km",
+            "year": "03/2010",
+            "place": "24060 Gorlago - Bergamo"
+        },
+        {
+            "id": "c893993b-e3d7-4e44-bbef-b067f192b970",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-argento-diesel-blu-azzurro-c893993b-e3d7-4e44-bbef-b067f192b970",
+            "title": "2.0 MJT 136 CV Argento",
+            "price": "€ 3.250",
+            "km": "135.000 km",
+            "year": "01/2009",
+            "place": "21050 Cairate - Varese - Va"
+        },
+        {
+            "id": "8de7dddd-0328-4626-8303-f0b7e3cdc21e",
+            "href": "/annunci/lancia-phedra-2-2-jtd-7-posti-pelle-sensori-clima-radio-diesel-argento-8de7dddd-0328-4626-8303-f0b7e3cdc21e",
+            "title": "2.2 JTD 7 POSTI PELLE SENSORI CLIMA RADIO",
+            "price": "€ 999",
+            "km": "262.000 km",
+            "year": "06/2003",
+            "place": "62015 Monte San Giusto - Macerata - Mc"
+        },
+        {
+            "id": "75c5073e-a4ba-4c7d-bfea-9ad3e1180eb5",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-75c5073e-a4ba-4c7d-bfea-9ad3e1180eb5",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "b6c7ac8a-6976-4e99-bd46-0a822f11defc",
+            "href": "/annunci/lancia-phedra-diesel-rosso-b6c7ac8a-6976-4e99-bd46-0a822f11defc",
+            "title": "Lancia Phedra",
+            "price": "€ 1.600",
+            "km": "252.000 km",
+            "year": "05/2003",
+            "place": "70736 Fellbach-Stuttgart"
+        },
+        {
+            "id": "19d2bcbd-69c7-116d-e053-0100007f222b",
+            "href": "/annunci/lancia-phedra-2-0-16v-executive-benzina-blu-azzurro-19d2bcbd-69c7-116d-e053-0100007f222b",
+            "title": "2.0 16V Executive",
+            "price": "€ 4.000",
+            "km": "355.000 km",
+            "year": "03/2003",
+            "place": "30020 Eraclea"
+        },
+        {
+            "id": "b8a656a1-a545-443f-aec6-9b3113ca5852",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-grigio-b8a656a1-a545-443f-aec6-9b3113ca5852",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 7.500",
+            "km": "149.000 km",
+            "year": "02/2007",
+            "place": "33170 Pordenone - Pn"
+        },
+        {
+            "id": "caeb6dad-ee63-43b2-809c-8a69d6f9677b",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-caeb6dad-ee63-43b2-809c-8a69d6f9677b",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.999",
+            "km": "312.000 km",
+            "year": "06/2009",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "cc144202-b65f-42fc-b991-6773d5e4e6a7",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-cc144202-b65f-42fc-b991-6773d5e4e6a7",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.300",
+            "km": "209.000 km",
+            "year": "08/2004",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "032870e1-7a52-4ed3-9895-01a608b1677c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-7-posti-pelle-sensori-clima-radio-diesel-argento-032870e1-7a52-4ed3-9895-01a608b1677c",
+            "title": "2.2 JTD 7 POSTI PELLE SENSORI CLIMA RADIO",
+            "price": "€ 999",
+            "km": "262.000 km",
+            "year": "06/2003",
+            "place": "62015 Monte San Giusto - Macerata - Mc"
+        },
+        {
+            "id": "63d8d2bd-6d30-fa66-e053-0100007f1a64",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-navi-webasto-alcantara-diesel-blu-azzurro-63d8d2bd-6d30-fa66-e053-0100007f1a64",
+            "title": "Executive 2,2 JTD 16V*Navi*Webasto*Alcantara*",
+            "price": "€ 3.999",
+            "km": "149.000 km",
+            "year": "11/2003",
+            "place": "1010 Wien"
+        },
+        {
+            "id": "b87a6eca-2e2b-4ba4-a522-a5a75eeb4659",
+            "href": "/annunci/lancia-phedra-diesel-blu-azzurro-b87a6eca-2e2b-4ba4-a522-a5a75eeb4659",
+            "title": "Lancia Phedra",
+            "price": "€ 3.630",
+            "km": "162.000 km",
+            "year": "07/2007",
+            "place": "81249 München"
+        },
+        {
+            "id": "00bd622c-2af6-467f-a1a4-3b436be14115",
+            "href": "/annunci/lancia-phedra-2-2-jtd-128-cv-platino-unico-proprietario-diesel-blu-azzurro-00bd622c-2af6-467f-a1a4-3b436be14115",
+            "title": "2.2 JTD 128 CV PLATINO - UNICO PROPRIETARIO",
+            "price": "€ 3.900",
+            "km": "125.000 km",
+            "year": "10/2005",
+            "place": "10071 Borgaro Torinese - Torino - To"
+        },
+        {
+            "id": "c75ef4bd-d4f5-c53c-e053-0100007f97aa",
+            "href": "/annunci/lancia-phedra-diesel-blu-azzurro-c75ef4bd-d4f5-c53c-e053-0100007f97aa",
+            "title": "Lancia Phedra",
+            "price": "€ 5.500",
+            "km": "130.000 km",
+            "year": "05/2007",
+            "place": "24040 BG"
+        },
+        {
+            "id": "d3c7e2bd-3e30-627f-e053-0100007fc37d",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-nero-d3c7e2bd-3e30-627f-e053-0100007fc37d",
+            "title": "2.2 MJT Platino",
+            "price": "€ 3.200",
+            "km": "180.000 km",
+            "year": "10/2008",
+            "place": "33076 Pravisdomini"
+        },
+        {
+            "id": "d0b12696-b659-474f-83c1-d190d073a5e7",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-argento-garanzia-europea-12-mesi-diesel-argento-d0b12696-b659-474f-83c1-d190d073a5e7",
+            "title": "2.0 MJT 136 CV Argento garanzia europea 12 mesi",
+            "price": "€ 3.500",
+            "km": "191.000 km",
+            "year": "09/2008",
+            "place": "16139 Genova - Ge"
+        },
+        {
+            "id": "739188b1-cf9a-4f6b-9f13-9ca49423e787",
+            "href": "/annunci/lancia-phedra-2-0-16v-multijet-executive-7-sitzer-diesel-oro-739188b1-cf9a-4f6b-9f13-9ca49423e787",
+            "title": "2,0 16V MULTIJET EXECUTIVE 7-SITZER",
+            "price": "€ 4.980",
+            "km": "183.195 km",
+            "year": "01/2008",
+            "place": "13597 Berlin"
+        },
+        {
+            "id": "7ebafabd-e2a8-eb31-e053-0100007f5c04",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-beige-7ebafabd-e2a8-eb31-e053-0100007f5c04",
+            "title": "2.2 MJT Platino",
+            "price": "€ 3.490",
+            "km": "189.000 km",
+            "year": "05/2009",
+            "place": "46019 Viadana"
+        },
+        {
+            "id": "ea2c0505-dfea-462c-b839-5abf03c0c221",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-argento-ea2c0505-dfea-462c-b839-5abf03c0c221",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 3.950",
+            "km": "220.000 km",
+            "year": "09/2007",
+            "place": "10020 Riva presso Chieri"
+        },
+        {
+            "id": "4991e1ce-1482-42de-9b16-47fc7232e242",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-4991e1ce-1482-42de-9b16-47fc7232e242",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "2349c3a9-88b0-4068-abf5-8c1489af6b5c",
+            "href": "/annunci/lancia-phedra-xenon-navi-tv-nur-134000-km-tuv-diesel-nero-2349c3a9-88b0-4068-abf5-8c1489af6b5c",
+            "title": "Xenon+Navi+TV+nur 134000 km TUV",
+            "price": "€ 4.499",
+            "km": "134.000 km",
+            "year": "04/2008",
+            "place": "14641 Nauen"
+        },
+        {
+            "id": "cc557d14-b865-4c4e-8b25-a3826fe7cbed",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platinum-diesel-blu-azzurro-cc557d14-b865-4c4e-8b25-a3826fe7cbed",
+            "title": "2.2 MJT CA platinum",
+            "price": "€ 4.850",
+            "km": "185.900 km",
+            "year": "05/2009",
+            "place": "41122 Modena - Mo"
+        },
+        {
+            "id": "d913bad9-466e-4f75-a281-4eeb873fc532",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-gancio-traino-7-posti-senso-diesel-grigio-d913bad9-466e-4f75-a281-4eeb873fc532",
+            "title": "2.2 JTD Emblema FAP, GANCIO TRAINO, 7 POSTI, SENSO",
+            "price": "€ 1.500",
+            "km": "248.000 km",
+            "year": "01/2003",
+            "place": "42124 Reggio nell'Emilia - Re"
+        },
+        {
+            "id": "c7089ebe-a519-46a2-9cfd-e3e62c89a884",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-bronzo-c7089ebe-a519-46a2-9cfd-e3e62c89a884",
+            "title": "2.2 MJT Platino",
+            "price": "€ 4.500",
+            "km": "207.000 km",
+            "year": "08/2009",
+            "place": "00018 palombara sabina"
+        },
+        {
+            "id": "bd051328-80b5-4e75-8802-b2a93d96643f",
+            "href": "/annunci/lancia-phedra-2-0-multijet-16v-argento-7pl-fap-diesel-marrone-bd051328-80b5-4e75-8802-b2a93d96643f",
+            "title": "2.0 Multijet 16v Argento 7pl. FAP",
+            "price": "€ 1.550",
+            "km": "226.000 km",
+            "year": "03/2008",
+            "place": "7390 Quaregnon (Mons)"
+        },
+        {
+            "id": "361cf3ee-e78e-4ae8-aa6a-d6bc97d6e8b0",
+            "href": "/annunci/lancia-phedra-oro-2-2-mjt-170-cv-7-posti-diesel-argento-361cf3ee-e78e-4ae8-aa6a-d6bc97d6e8b0",
+            "title": "ORO 2.2 MJT 170 CV 7 POSTI",
+            "price": "€ 3.900",
+            "km": "190.800 km",
+            "year": "10/2008",
+            "place": "33050 Bagnaria Arsa - Udine - Ud"
+        },
+        {
+            "id": "d51c2ce7-0137-4c45-b640-f80faa55480c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-d51c2ce7-0137-4c45-b640-f80faa55480c",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "ed579c26-507a-49ce-bc1a-11eabd43a7fd",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-grigio-ed579c26-507a-49ce-bc1a-11eabd43a7fd",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 5.900",
+            "km": "134.000 km",
+            "year": "04/2010",
+            "place": "10147 Torino - To"
+        },
+        {
+            "id": "a6679a89-be3e-4994-bf99-b0c390d3f644",
+            "href": "/annunci/lancia-phedra-2-0-16v-emblema-benzina-argento-a6679a89-be3e-4994-bf99-b0c390d3f644",
+            "title": "2.0 16V Emblema",
+            "price": "€ 1.900",
+            "km": "50.000 km",
+            "year": "06/2003",
+            "place": "60013 Corinaldo(AN)"
+        },
+        {
+            "id": "a2ef5fbe-e125-8875-e053-0100007fb478",
+            "href": "/annunci/lancia-phedra-diesel-nero-a2ef5fbe-e125-8875-e053-0100007fb478",
+            "title": "Lancia Phedra",
+            "price": "€ 2.500",
+            "km": "138.000 km",
+            "year": "09/2010",
+            "place": "36075 Montecchio Maggiore"
+        },
+        {
+            "id": "6c705ebe-9b81-1a61-e053-0100007fd809",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-dpf-diesel-grigio-6c705ebe-9b81-1a61-e053-0100007fd809",
+            "title": "Executive 2,2 JTD 16V DPF",
+            "price": "€ 2.100",
+            "km": "190.000 km",
+            "year": "08/2005",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "15b8d980-4c26-4248-b2b3-fc3c290ddb04",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platinum-autom-7-posti-molto-bella-diesel-grigio-15b8d980-4c26-4248-b2b3-fc3c290ddb04",
+            "title": "2.2 MJT PLATINUM AUTOM. 7 POSTI MOLTO BELLA",
+            "price": "€ 5.000 IVA deducibilePrezzo finale offerto al pubblico, comprensivo di IVA, non vincolato all’acquisto di un finanziamento, a permuta o rottamazione. Passaggio di proprietà e IPT esclusi.",
+            "km": "199.999 km",
+            "year": "01/2010",
+            "place": "46047 Porto Mantovano - Mn"
+        },
+        {
+            "id": "2a9c5abe-30f3-bf65-e053-0100007f9378",
+            "href": "/annunci/lancia-phedra-170hp-diesel-rosso-2a9c5abe-30f3-bf65-e053-0100007f9378",
+            "title": "170HP",
+            "price": "€ 6.400",
+            "km": "115.400 km",
+            "year": "06/2008",
+            "place": "1220 Wien"
+        },
+        {
+            "id": "890c50be-6244-5c55-e053-0100007f35ea",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-plus-diesel-blu-azzurro-890c50be-6244-5c55-e053-0100007f35ea",
+            "title": "2.2 MJT CA Oro Plus",
+            "price": "€ 2.000",
+            "km": "181.000 km",
+            "year": "10/2008",
+            "place": "46031 BAGNOLO SAN VITO"
+        },
+        {
+            "id": "92be2ea6-31e7-4c5b-bce9-f89f48cf242f",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-grigio-92be2ea6-31e7-4c5b-bce9-f89f48cf242f",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 500",
+            "km": "268.000 km",
+            "year": "06/2004",
+            "place": "00132 Roma"
+        },
+        {
+            "id": "041eb833-f746-4f05-a540-16783fc46aca",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-airco-7pers-nieuw-apk-diesel-blu-azzurro-041eb833-f746-4f05-a540-16783fc46aca",
+            "title": "2.2 JTD Emblema Airco/7pers./Nieuw apk",
+            "price": "€ 3.750",
+            "km": "228.081 km",
+            "year": "06/2006",
+            "place": "2941 CG LEKKERKERK"
+        },
+        {
+            "id": "630b392b-7c84-450e-a0fa-28d9f56d5dfe",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-630b392b-7c84-450e-a0fa-28d9f56d5dfe",
+            "title": "2.2 MJT Platino",
+            "price": "€ 2.000",
+            "km": "288.000 km",
+            "year": "03/2008",
+            "place": "35042 Este PD"
+        },
+        {
+            "id": "8ca772be-cd24-c21f-e053-0100007f4a8e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-plus-diesel-bronzo-8ca772be-cd24-c21f-e053-0100007f4a8e",
+            "title": "2.0 MJT 136 CV Oro Plus",
+            "price": "€ 6.900",
+            "km": "95.000 km",
+            "year": "05/2010",
+            "place": "10043 Orbassano"
+        },
+        {
+            "id": "374feda3-bc92-4360-9d4d-5074a0cedbfe",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-oro-374feda3-bc92-4360-9d4d-5074a0cedbfe",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 5.800",
+            "km": "217.500 km",
+            "year": "06/2009",
+            "place": "70024 Gravina In Puglia"
+        },
+        {
+            "id": "77198bbe-a629-b568-e053-0100007f06b9",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-grigio-77198bbe-a629-b568-e053-0100007f06b9",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.500",
+            "km": "199.600 km",
+            "year": "12/2005",
+            "place": "82018 BN"
+        },
+        {
+            "id": "468a8e7e-43fe-4f63-87b2-27989a025b17",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-dpf-connect-nav-diesel-grigio-468a8e7e-43fe-4f63-87b2-27989a025b17",
+            "title": "2,2 JTD 16V DPF Connect Nav",
+            "price": "€ 690",
+            "km": "280.000 km",
+            "year": "08/2004",
+            "place": "1100 wien"
+        },
+        {
+            "id": "9e4c80a9-ff87-4419-99ae-8e39d8589340",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-9e4c80a9-ff87-4419-99ae-8e39d8589340",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "36fa9ebe-36db-5460-e053-0100007fc8c7",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-platino-dpf-aut-diesel-blu-azzurro-36fa9ebe-36db-5460-e053-0100007fc8c7",
+            "title": "2,2 JTD 16V Platino DPF Aut.",
+            "price": "€ 5.900",
+            "km": "145.000 km",
+            "year": "08/2009",
+            "place": "2500 Baden"
+        },
+        {
+            "id": "54e7506d-229c-491a-a721-2284ab24b6ab",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-54e7506d-229c-491a-a721-2284ab24b6ab",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 3.900",
+            "km": "164.000 km",
+            "year": "11/2006",
+            "place": "10142 Torino"
+        },
+        {
+            "id": "a500c774-5dc9-4c81-909b-319fe9c92ebc",
+            "href": "/annunci/lancia-phedra-3-0-v6-24v-executive-comfortronic-benzina-oro-a500c774-5dc9-4c81-909b-319fe9c92ebc",
+            "title": "3.0 V6 24V Executive Comfortronic",
+            "price": "€ 2.250",
+            "km": "253.710 km",
+            "year": "08/2003",
+            "place": "72479 Straßberg"
+        },
+        {
+            "id": "28c465d9-90e6-478a-9679-4325d4c212e0",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-plus-diesel-argento-28c465d9-90e6-478a-9679-4325d4c212e0",
+            "title": "2.2 MJT CA Oro Plus",
+            "price": "€ 3.850",
+            "km": "170.000 km",
+            "year": "03/2008",
+            "place": "76012 Canosa di Puglia"
+        },
+        {
+            "id": "94c213ec-51a4-4b71-8b9f-a61656e531db",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-marrone-94c213ec-51a4-4b71-8b9f-a61656e531db",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 7.490",
+            "km": "160.000 km",
+            "year": "03/2009",
+            "place": "28820 Coslada"
+        },
+        {
+            "id": "7bd0d8be-51c1-b202-e053-0100007f70f5",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-7bd0d8be-51c1-b202-e053-0100007f70f5",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 750",
+            "km": "220.000 km",
+            "year": "04/2004",
+            "place": "37015 verona"
+        },
+        {
+            "id": "63f38fa8-ad87-4728-a932-0a21d8202807",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-gancio-traino-7-posti-senso-diesel-grigio-63f38fa8-ad87-4728-a932-0a21d8202807",
+            "title": "2.2 JTD Emblema FAP, GANCIO TRAINO, 7 POSTI, SENSO",
+            "price": "€ 1.500",
+            "km": "248.000 km",
+            "year": "01/2003",
+            "place": "42124 Reggio nell'Emilia - Re"
+        },
+        {
+            "id": "5ce330bd-647b-4d1f-b17a-401f43acd6bd",
+            "href": "/annunci/lancia-phedra-2-2-jtd-7-posti-unico-proprietario-diesel-argento-5ce330bd-647b-4d1f-b17a-401f43acd6bd",
+            "title": "2.2 JTD -7 POSTI - UNICO PROPRIETARIO -",
+            "price": "€ 3.000",
+            "km": "167.900 km",
+            "year": "11/2005",
+            "place": "53100 Siena - Si"
+        },
+        {
+            "id": "2608aca8-c45b-461f-97e4-6edb99c6ce2f",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-7-posti-km-originali-diesel-blu-azzurro-2608aca8-c45b-461f-97e4-6edb99c6ce2f",
+            "title": "2.0 MJT 136 CV 7 posti km originali",
+            "price": "€ 2.000",
+            "km": "150.000 km",
+            "year": "04/2008",
+            "place": "10098 Rivoli TO"
+        },
+        {
+            "id": "c7172635-056f-4444-a9e1-987b681744a7",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-diesel-argento-c7172635-056f-4444-a9e1-987b681744a7",
+            "title": "2.0 MJT 120 CV",
+            "price": "€ 3.950",
+            "km": "220.000 km",
+            "year": "09/2007",
+            "place": "10020 Riva presso Chieri"
+        },
+        {
+            "id": "497d3a00-6fda-4a82-bab3-8de7fcbab038",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-executive-diesel-grigio-497d3a00-6fda-4a82-bab3-8de7fcbab038",
+            "title": "2.0 MJT 120 CV Executive",
+            "price": "€ 2.500",
+            "km": "170.000 km",
+            "year": "07/2007",
+            "place": "24040 Ciserano - Bergamo"
+        },
+        {
+            "id": "0788fabe-f101-0065-e053-0100007f291a",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-marrone-0788fabe-f101-0065-e053-0100007f291a",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.500",
+            "km": "188.000 km",
+            "year": "04/2006",
+            "place": "36066 Sandrigo"
+        },
+        {
+            "id": "e2969374-8a31-4ab0-a47d-6793e12ffd89",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-automatik-limited-edition-diesel-grigio-e2969374-8a31-4ab0-a47d-6793e12ffd89",
+            "title": "2.2 Multijet 16v DPF Automatik Limited Edition",
+            "price": "€ 3.900",
+            "km": "140.000 km",
+            "year": "06/2009",
+            "place": "25124 Brescia"
+        },
+        {
+            "id": "d22a7859-6334-49f7-b42d-0e9898a69dfe",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-beige-d22a7859-6334-49f7-b42d-0e9898a69dfe",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 2.990",
+            "km": "156.287 km",
+            "year": "08/2008",
+            "place": "56100 Pisa - PI"
+        },
+        {
+            "id": "53aedeae-9b83-4756-b094-f89d63c8244f",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-platino-dpf-export-diesel-nero-53aedeae-9b83-4756-b094-f89d63c8244f",
+            "title": "2,2 JTD 16V Platino DPF - EXPORT",
+            "price": "€ 1.990",
+            "km": "313.390 km",
+            "year": "12/2009",
+            "place": "4320 Allerheiligen/Perg"
+        },
+        {
+            "id": "33fdcbf9-f245-4a2b-9a9f-10b8bf357d2a",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-blu-azzurro-33fdcbf9-f245-4a2b-9a9f-10b8bf357d2a",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 6.000",
+            "km": "159.000 km",
+            "year": "06/2010",
+            "place": "36028 Rossano Veneto - Vicenza - Vi"
+        },
+        {
+            "id": "09020fb2-a79b-4dad-b182-d7fbcebc5cbd",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-verde-09020fb2-a79b-4dad-b182-d7fbcebc5cbd",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.700",
+            "km": "190.000 km",
+            "year": "10/2002",
+            "place": "25050 Ossimo"
+        },
+        {
+            "id": "942a28bf-8502-4b1f-e053-0100007fa010",
+            "href": "/annunci/lancia-phedra-2-2-jtd-fap-diesel-blu-azzurro-942a28bf-8502-4b1f-e053-0100007fa010",
+            "title": "2.2 JTD FAP",
+            "price": "€ 1.150",
+            "km": "348.000 km",
+            "year": "06/2004",
+            "place": "31058 Susegana"
+        },
+        {
+            "id": "96fe25b5-3c67-4654-b788-878b2284b191",
+            "href": "/annunci/lancia-phedra-xenon-navi-tv-nur-134000-km-tuv-diesel-nero-96fe25b5-3c67-4654-b788-878b2284b191",
+            "title": "Xenon+Navi+TV+nur 134000 km TUV",
+            "price": "€ 4.499",
+            "km": "134.000 km",
+            "year": "04/2008",
+            "place": "14641 Nauen"
+        },
+        {
+            "id": "d5a668b6-a641-4938-ac7d-cc3787d02b01",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-d5a668b6-a641-4938-ac7d-cc3787d02b01",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.200",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "ce8cdcd9-94f0-4a31-a4f9-e40b63c73ee7",
+            "href": "/annunci/lancia-phedra-2-0-16v-emblema-benzina-argento-ce8cdcd9-94f0-4a31-a4f9-e40b63c73ee7",
+            "title": "2.0 16v Emblema",
+            "price": "€ 1.300",
+            "km": "158.500 km",
+            "year": "02/2004",
+            "place": "68239 Mannheim"
+        },
+        {
+            "id": "b17142e4-c520-41a5-bbd6-385f281ea433",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-gancio-traino-7-posti-senso-diesel-grigio-b17142e4-c520-41a5-bbd6-385f281ea433",
+            "title": "2.2 JTD Emblema FAP, GANCIO TRAINO, 7 POSTI, SENSO",
+            "price": "€ 1.500",
+            "km": "248.000 km",
+            "year": "01/2003",
+            "place": "42124 Reggio nell'Emilia - Re"
+        },
+        {
+            "id": "7145554f-0c8d-4bf4-8157-1e3de24ce107",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-automatik-limited-edition-diesel-nero-7145554f-0c8d-4bf4-8157-1e3de24ce107",
+            "title": "2.2 Multijet 16v DPF Automatik Limited Edition",
+            "price": "€ 3.900",
+            "km": "168.000 km",
+            "year": "09/2009",
+            "place": "1080 bruxelles"
+        },
+        {
+            "id": "e52d28ff-4766-45a7-ad79-f7495f0bf8d9",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-grigio-e52d28ff-4766-45a7-ad79-f7495f0bf8d9",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 7.500",
+            "km": "149.000 km",
+            "year": "02/2007",
+            "place": "33170 Pordenone - Pn"
+        },
+        {
+            "id": "b3f845c3-fc12-42cf-8fe9-c21eee29b440",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-grigio-b3f845c3-fc12-42cf-8fe9-c21eee29b440",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 7.500",
+            "km": "149.000 km",
+            "year": "02/2007",
+            "place": "33170 Pordenone - Pn"
+        },
+        {
+            "id": "5d014fbf-0cba-8760-e053-0100007fc461",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-nero-5d014fbf-0cba-8760-e053-0100007fc461",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.500",
+            "km": "292.000 km",
+            "year": "07/2005",
+            "place": "10064 pinerolo"
+        },
+        {
+            "id": "578acdeb-b13f-4b08-9e0e-b207c54080e9",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-dpf-connect-nav-diesel-argento-578acdeb-b13f-4b08-9e0e-b207c54080e9",
+            "title": "2,2 JTD 16V DPF Connect Nav",
+            "price": "€ 1.000",
+            "km": "331.456 km",
+            "year": "06/2005",
+            "place": "8967 Haus i. E."
+        },
+        {
+            "id": "789d51ad-dba6-453e-9d05-6d15a199c0b1",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-argento-diesel-rosso-789d51ad-dba6-453e-9d05-6d15a199c0b1",
+            "title": "2.0 MJT 136 CV Argento",
+            "price": "€ 3.400",
+            "km": "238.460 km",
+            "year": "01/2009",
+            "place": "10088 Volpiano - Torino - TO"
+        },
+        {
+            "id": "3e4be3be-875f-4c61-b1a5-723e43d3da0c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-turbo-da-sostituire-diesel-grigio-3e4be3be-875f-4c61-b1a5-723e43d3da0c",
+            "title": "2.2 JTD TURBO DA SOSTITUIRE",
+            "price": "€ 1.400",
+            "km": "151.000 km",
+            "year": "11/2005",
+            "place": "12038 Savigliano - Cuneo - Cn"
+        },
+        {
+            "id": "40bcb5db-f79e-46c1-8d98-82bc640f4c50",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-grigio-40bcb5db-f79e-46c1-8d98-82bc640f4c50",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 7.500",
+            "km": "149.000 km",
+            "year": "02/2007",
+            "place": "33170 Pordenone - Pn"
+        },
+        {
+            "id": "6dd3db40-61af-4609-8313-38178a0ade55",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-7-posti-diesel-grigio-6dd3db40-61af-4609-8313-38178a0ade55",
+            "title": "2.2 MJT Oro Plus 7 posti",
+            "price": "€ 4.500 IVA deducibilePrezzo finale offerto al pubblico, comprensivo di IVA, non vincolato all’acquisto di un finanziamento, a permuta o rottamazione. Passaggio di proprietà e IPT esclusi.",
+            "km": "290.000 km",
+            "year": "06/2009",
+            "place": "84013 Cava Dei Tirreni - Salerno - Sa"
+        },
+        {
+            "id": "262a7ebf-245d-986b-e053-0100007f7806",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-262a7ebf-245d-986b-e053-0100007f7806",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 5.900",
+            "km": "146.000 km",
+            "year": "05/2007",
+            "place": "71042 CERIGNOLA"
+        },
+        {
+            "id": "1d0a3026-37af-4963-a3e5-568315be93c9",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-beige-1d0a3026-37af-4963-a3e5-568315be93c9",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 3.600",
+            "km": "230.000 km",
+            "year": "01/2010",
+            "place": "24047 Treviglio - Bergamo"
+        },
+        {
+            "id": "727a1374-abb9-49f2-acbc-91d710fd1306",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-executive-7-posti-ful-optional-diesel-grigio-727a1374-abb9-49f2-acbc-91d710fd1306",
+            "title": "2.0 MJT 120 CV Executive, 7 POSTI. Ful OPTIONAL",
+            "price": "€ 2.300",
+            "km": "167.000 km",
+            "year": "07/2007",
+            "place": "24040 Ciserano - Bergamo"
+        },
+        {
+            "id": "11fe69bf-138a-6d2b-e053-0100007f153f",
+            "href": "/annunci/lancia-phedra-2-0-16v-emblema-benzina-grigio-11fe69bf-138a-6d2b-e053-0100007f153f",
+            "title": "2.0 16V Emblema",
+            "price": "€ 1.400",
+            "km": "240.000 km",
+            "year": "02/2003",
+            "place": "33100 Udine"
+        },
+        {
+            "id": "07665cf2-6a60-4d19-9253-e1ceed1646de",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-argento-07665cf2-6a60-4d19-9253-e1ceed1646de",
+            "title": "2.2 MJT Platino",
+            "price": "€ 6.500",
+            "km": "98.000 km",
+            "year": "01/2009",
+            "place": "20090 Milano"
+        },
+        {
+            "id": "c0ff885f-20af-4492-b7bb-0726b0e57120",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-c0ff885f-20af-4492-b7bb-0726b0e57120",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 500",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "7ecdb5e3-c603-45f8-a1e9-125fee22383a",
+            "href": "/annunci/lancia-phedra-limited-edition-autom-garanzia-lancia-24-mesi-diesel-7ecdb5e3-c603-45f8-a1e9-125fee22383a",
+            "title": "LIMITED EDITION AUTOM**GARANZIA LANCIA 24 MESI\"\"",
+            "price": "€ 9.999",
+            "km": "80.000 km",
+            "year": "07/2009",
+            "place": "89020 Sinopoli - Reggio Calabria"
+        },
+        {
+            "id": "04ffefa5-33a7-470c-9386-04fdf3330709",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-04ffefa5-33a7-470c-9386-04fdf3330709",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 500",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "35c9a399-fd23-470a-99ec-6946223e86ed",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-gancio-traino-7-posti-senso-diesel-grigio-35c9a399-fd23-470a-99ec-6946223e86ed",
+            "title": "2.2 JTD Emblema FAP, GANCIO TRAINO, 7 POSTI, SENSO",
+            "price": "€ 1.500",
+            "km": "248.000 km",
+            "year": "01/2003",
+            "place": "42124 Reggio nell'Emilia - Re"
+        },
+        {
+            "id": "7199b8db-5231-446a-8dfe-9452d0c44ce7",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-128cv-7plazas-5p-navy-baca-parktro-diesel-beige-7199b8db-5231-446a-8dfe-9452d0c44ce7",
+            "title": "2.2 JTD 16v 128cv 7Plazas 5p # NAVY, BACA, PARKTRO",
+            "price": "€ 5.950",
+            "km": "114.500 km",
+            "year": "06/2006",
+            "place": "28430 ALPEDRETE"
+        },
+        {
+            "id": "2bf0d7a5-d04f-44e4-9b12-ac769c288617",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-2bf0d7a5-d04f-44e4-9b12-ac769c288617",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 500",
+            "km": "199.000 km",
+            "year": "01/2003",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "410faebf-ea7a-8825-e053-0100007f97b4",
+            "href": "/annunci/lancia-phedra-2-0-jtd-diesel-grigio-410faebf-ea7a-8825-e053-0100007f97b4",
+            "title": "2.0 JTD",
+            "price": "€ 1.600",
+            "km": "270.000 km",
+            "year": "04/2007",
+            "place": "33077 Sacile"
+        },
+        {
+            "id": "0faa289d-c6f1-4065-87d0-94af06956c45",
+            "href": "/annunci/lancia-phedra-2-2-jtd-7pl-word-gekeurd-airco-trekhk-pdc-leder-diesel-grigio-0faa289d-c6f1-4065-87d0-94af06956c45",
+            "title": "2.2 JTD 7pl. word GEKEURD AIRCO TREKHK PDC LEDER",
+            "price": "€ 750",
+            "km": "286.000 km",
+            "year": "04/2005",
+            "place": "9521 Letterhoutem"
+        },
+        {
+            "id": "8e4c97d5-bc8f-4a08-b29e-2a28990a0be2",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-argento-diesel-nero-8e4c97d5-bc8f-4a08-b29e-2a28990a0be2",
+            "title": "2.0 MJT 120 CV Argento",
+            "price": "€ 3.500",
+            "km": "192.000 km",
+            "year": "01/2009",
+            "place": "16152 Genova - Ge"
+        },
+        {
+            "id": "e66760e2-8540-47c7-9f07-bd6bb72574ce",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-blu-azzurro-e66760e2-8540-47c7-9f07-bd6bb72574ce",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 2.750",
+            "km": "178.000 km",
+            "year": "08/2008",
+            "place": "10071 Borgaro Torinese"
+        },
+        {
+            "id": "9a99ddbf-9a74-fb3c-e053-0100007f7488",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-dpf-connect-nav-diesel-argento-9a99ddbf-9a74-fb3c-e053-0100007f7488",
+            "title": "2,2 JTD 16V DPF Connect Nav ",
+            "price": "€ 800",
+            "km": "258.091 km",
+            "year": "06/2006",
+            "place": "3211 ..."
+        },
+        {
+            "id": "28ac1944-c3a8-4a23-ab32-d9b66d3c8535",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-28ac1944-c3a8-4a23-ab32-d9b66d3c8535",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.600",
+            "km": "190.000 km",
+            "year": "01/2005",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "b8dea276-ba87-4a22-85b1-a380474aef20",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-tagliandi-lancia-rate-diesel-grigio-b8dea276-ba87-4a22-85b1-a380474aef20",
+            "title": "2.2 MJT Limited Edition/TAGLIANDI LANCIA/RATE/",
+            "price": "€ 5.999",
+            "km": "117.000 km",
+            "year": "06/2009",
+            "place": "00133 Roma - Rm"
+        },
+        {
+            "id": "e6d062a8-26a6-46fb-9536-2dd3ce58e263",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-e6d062a8-26a6-46fb-9536-2dd3ce58e263",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 2.700",
+            "km": "222.000 km",
+            "year": "12/2006",
+            "place": "06100 Ellera - Perugia - Pg"
+        },
+        {
+            "id": "85bc18c0-2bc2-3b47-e053-0100007ff729",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-blu-azzurro-85bc18c0-2bc2-3b47-e053-0100007ff729",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 3.850",
+            "km": "250.000 km",
+            "year": "06/2008",
+            "place": "10143 Torino"
+        },
+        {
+            "id": "8757e362-2c07-4a7b-a528-4a4c6a3b4ab8",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-8757e362-2c07-4a7b-a528-4a4c6a3b4ab8",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.050",
+            "km": "350.000 km",
+            "year": "10/2004",
+            "place": "30027 San Donà di Piave"
+        },
+        {
+            "id": "ae63ff98-9201-4c08-8d43-e03a51625266",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-ae63ff98-9201-4c08-8d43-e03a51625266",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.600",
+            "km": "190.000 km",
+            "year": "01/2005",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "d17fe5c0-9157-ae1e-e053-0100007fafd5",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-grigio-d17fe5c0-9157-ae1e-e053-0100007fafd5",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 3.000",
+            "km": "120.000 km",
+            "year": "09/2009",
+            "place": "39100 Bolzano"
+        },
+        {
+            "id": "ed64dbc0-bfa8-6d3e-e053-0100007fdf29",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-grigio-ed64dbc0-bfa8-6d3e-e053-0100007fdf29",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 3.200",
+            "km": "159.000 km",
+            "year": "04/2005",
+            "place": "75025 Policoro"
+        },
+        {
+            "id": "d062f398-96fe-489f-94e2-99aeb9eeb4e0",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-d062f398-96fe-489f-94e2-99aeb9eeb4e0",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.600",
+            "km": "190.000 km",
+            "year": "01/2005",
+            "place": "00133 Roma"
+        },
+        {
+            "id": "49b02658-39f3-4c79-9324-e583982d49d2",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-emblema-diesel-beige-49b02658-39f3-4c79-9324-e583982d49d2",
+            "title": "2.0 MJT 120 CV Emblema",
+            "price": "€ 3.000",
+            "km": "222.000 km",
+            "year": "04/2007",
+            "place": "20141 Milano"
+        },
+        {
+            "id": "abf7c6c0-121f-6519-e053-0100007fdd49",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-oro-abf7c6c0-121f-6519-e053-0100007fdd49",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 3.900",
+            "km": "248.000 km",
+            "year": "05/2009",
+            "place": "47121 Forlì"
+        },
+        {
+            "id": "a9eeaa59-0f0d-4d48-9469-8d97000a50d4",
+            "href": "/annunci/lancia-phedra-3-0-v6-24v-emblema-benzina-grigio-a9eeaa59-0f0d-4d48-9469-8d97000a50d4",
+            "title": "3.0 V6 24v Emblema",
+            "price": "€ 1.700",
+            "km": "60.000 km",
+            "year": "04/2003",
+            "place": "71665 Vaihingen an der Enz"
+        },
+        {
+            "id": "614abe94-8e5b-4002-b2b0-f01c3082f26c",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-executive-diesel-blu-azzurro-614abe94-8e5b-4002-b2b0-f01c3082f26c",
+            "title": "2.0 MJT 136 CV Executive",
+            "price": "€ 2.200",
+            "km": "185.000 km",
+            "year": "03/2008",
+            "place": "10051 Avigliana"
+        },
+        {
+            "id": "03e08267-145c-4516-acec-7825c94a91ae",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-gold-oro-diesel-grigio-03e08267-145c-4516-acec-7825c94a91ae",
+            "title": "2.0 MJT 136 CV Gold (oro)",
+            "price": "€ 2.800",
+            "km": "207.000 km",
+            "year": "11/2009",
+            "place": "37038 Soave - Verona - Vr"
+        },
+        {
+            "id": "0f148bc0-1257-6b45-e053-0100007fd8c5",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-executive-diesel-blu-azzurro-0f148bc0-1257-6b45-e053-0100007fd8c5",
+            "title": "2.0 MJT 120 CV Executive",
+            "price": "€ 3.800",
+            "km": "120.000 km",
+            "year": "05/2007",
+            "place": "24040 BG"
+        },
+        {
+            "id": "c5ab2068-b206-4967-a237-288e0d4a0db7",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-dpf-executive-diesel-blu-azzurro-c5ab2068-b206-4967-a237-288e0d4a0db7",
+            "title": "2.2 16v JTD DPF Executive",
+            "price": "€ 750",
+            "km": "289.930 km",
+            "year": "06/2004",
+            "place": "91058 Erlangen"
+        },
+        {
+            "id": "3ca963ef-7781-4c2c-9943-84bb9358c1eb",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-motore-rifatto-con-100-000km-diesel-blu-azzurro-3ca963ef-7781-4c2c-9943-84bb9358c1eb",
+            "title": "2.2 JTD Executive FAP motore rifatto con 100.000km",
+            "price": "€ 1.550",
+            "km": "260.000 km",
+            "year": "04/2005",
+            "place": "14050 San Marzano Oliveto"
+        },
+        {
+            "id": "7091cf6d-713b-4674-b56c-26cc42896764",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-7091cf6d-713b-4674-b56c-26cc42896764",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 1.500",
+            "km": "313.000 km",
+            "year": "06/2008",
+            "place": "84030 Montesano sulla Marcellana - Salerno"
+        },
+        {
+            "id": "73f6bfc2-6a66-4ea6-96ba-d8b6a2200089",
+            "href": "/annunci/lancia-phedra-2-0-16v-emblema-180-benzina-grigio-73f6bfc2-6a66-4ea6-96ba-d8b6a2200089",
+            "title": "2.0 16V Emblema (180)",
+            "price": "€ 2.200",
+            "km": "158.600 km",
+            "year": "04/2004",
+            "place": "68723 Schwetzingen"
+        },
+        {
+            "id": "5add66c0-a532-2865-e053-0100007fb903",
+            "href": "/annunci/lancia-phedra-2-2-jtd-le-phare-de-la-baleine-diesel-beige-5add66c0-a532-2865-e053-0100007fb903",
+            "title": "2.2 JTD Le Phare de la Baleine",
+            "price": "€ 8.000",
+            "km": "192.000 km",
+            "year": "11/2005",
+            "place": "34790 grabels"
+        },
+        {
+            "id": "ccea68f7-7bd5-434b-9aed-481de3c65fa5",
+            "href": "/annunci/lancia-phedra-oro-2-2-mjt-170-cv-7-posti-diesel-argento-ccea68f7-7bd5-434b-9aed-481de3c65fa5",
+            "title": "ORO 2.2 MJT 170 CV 7 POSTI",
+            "price": "€ 3.900",
+            "km": "190.800 km",
+            "year": "10/2008",
+            "place": "33050 Bagnaria Arsa - Udine - Ud"
+        },
+        {
+            "id": "0c28f2c0-c243-646c-e053-0100007fabfc",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-0c28f2c0-c243-646c-e053-0100007fabfc",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 750",
+            "km": "181.000 km",
+            "year": "08/2002",
+            "place": "38050 CIVEZZANO"
+        },
+        {
+            "id": "180a2e3f-a1f5-46af-9fc9-2fe65ac9405c",
+            "href": "/annunci/lancia-phedra-3-0-v6-24v-6-sitzer-ahk-tuev-01-22-benzina-nero-180a2e3f-a1f5-46af-9fc9-2fe65ac9405c",
+            "title": "3.0 V6 24v 6 Sitzer AHK Tüv 01/22",
+            "price": "€ 1.500",
+            "km": "182.041 km",
+            "year": "09/2003",
+            "place": "87734 Benningen"
+        },
+        {
+            "id": "a59a0e9b-2f9b-47dc-9b5e-68ac2e150406",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-oro-a59a0e9b-2f9b-47dc-9b5e-68ac2e150406",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 3.990",
+            "km": "183.000 km",
+            "year": "04/2010",
+            "place": "10100 Torino - To"
+        },
+        {
+            "id": "79b00a66-5e6e-4059-bf09-bba23d94ed31",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-79b00a66-5e6e-4059-bf09-bba23d94ed31",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.350",
+            "km": "326.187 km",
+            "year": "04/2005",
+            "place": "20081 Abbiategrasso - Milano - Mi"
+        },
+        {
+            "id": "0a02a98c-cc95-4157-8208-2529d88098df",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-diesel-grigio-0a02a98c-cc95-4157-8208-2529d88098df",
+            "title": "2,0 JTD 16V",
+            "price": "€ 1.990",
+            "km": "138.600 km",
+            "year": "12/2005",
+            "place": "2851 Krumbach"
+        },
+        {
+            "id": "e1b17f1a-26bb-4922-a0f0-70aed0a6a85f",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-emblema-diesel-grigio-e1b17f1a-26bb-4922-a0f0-70aed0a6a85f",
+            "title": "2.0 16v JTD Emblema",
+            "price": "€ 1.550",
+            "km": "240.000 km",
+            "year": "08/2004",
+            "place": "28053 Castelletto Sopra Ticino"
+        },
+        {
+            "id": "cc4b9304-683c-4a61-a5ac-ca564fc3426e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-argento-7-posti-unico-propriet-diesel-argento-cc4b9304-683c-4a61-a5ac-ca564fc3426e",
+            "title": "2.0 MJT 136 CV . Argento 7 Posti Unico - Propriet",
+            "price": "€ 2.900",
+            "km": "225.000 km",
+            "year": "06/2010",
+            "place": "20037 Paderno Dugnano - Milano"
+        },
+        {
+            "id": "3fb89b1c-a03a-4d9e-9d30-5253a664f78c",
+            "href": "/annunci/lancia-phedra-km100-000-magnifica-7posti-136cv-permute-diesel-blu-azzurro-3fb89b1c-a03a-4d9e-9d30-5253a664f78c",
+            "title": "KM100.000 MAGNIFICA-7POSTI-136CV-PERMUTE",
+            "price": "€ 4.950",
+            "km": "100.000 km",
+            "year": "06/2006",
+            "place": "10126 Torino - TO"
+        },
+        {
+            "id": "a33c4753-a889-4516-be35-592f081de538",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-nero-a33c4753-a889-4516-be35-592f081de538",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 500",
+            "km": "350.000 km",
+            "year": "05/2004",
+            "place": "25135 brescia"
+        },
+        {
+            "id": "a1ff9c15-7054-4952-a038-6cf622c74ca4",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-pelle-navi-porte-elettric-diesel-blu-azzurro-a1ff9c15-7054-4952-a038-6cf622c74ca4",
+            "title": "2.0 MJT 136 CV Emblema /PELLE/NAVI/PORTE ELETTRIC.",
+            "price": "€ 3.900",
+            "km": "149.000 km",
+            "year": "10/2006",
+            "place": "12038 Savigliano - Cuneo - Cn"
+        },
+        {
+            "id": "5a46ebb6-cfe4-47b4-9d74-c0417f594bdb",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-pelle-navi-porte-elettric-diesel-blu-azzurro-5a46ebb6-cfe4-47b4-9d74-c0417f594bdb",
+            "title": "2.0 MJT 136 CV Emblema /PELLE/NAVI/PORTE ELETTRIC.",
+            "price": "€ 3.900",
+            "km": "149.000 km",
+            "year": "10/2006",
+            "place": "12038 Savigliano - Cuneo - Cn"
+        },
+        {
+            "id": "534143ae-c1af-4447-85b6-841fa1268df2",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-limited-edition-diesel-grigio-534143ae-c1af-4447-85b6-841fa1268df2",
+            "title": "2.0 MJT 136 CV Limited Edition",
+            "price": "€ 3.750",
+            "km": "74.000 km",
+            "year": "09/2010",
+            "place": "20093 Cologno Monzese - Milano"
+        },
+        {
+            "id": "c8b9dbf7-f912-4300-abae-ad3b81c10630",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-platino-diesel-blu-azzurro-c8b9dbf7-f912-4300-abae-ad3b81c10630",
+            "title": "2.0 MJT 136 CV Platino",
+            "price": "€ 5.700",
+            "km": "175.000 km",
+            "year": "04/2009",
+            "place": "21052 Busto Arsizio"
+        },
+        {
+            "id": "c44da0c2-a53a-f10a-e053-0100007f8a27",
+            "href": "/annunci/lancia-phedra-emblema-2-2-jtd-16v-dpf-diesel-blu-azzurro-c44da0c2-a53a-f10a-e053-0100007f8a27",
+            "title": "Emblema 2,2 JTD 16V DPF",
+            "price": "€ 200",
+            "km": "200.000 km",
+            "year": "01/2005",
+            "place": "1210 Wien, 21. Bezirk, Floridsdorf"
+        },
+        {
+            "id": "77cdb266-e764-4c31-8cc9-001631ca7bad",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-executive-diesel-grigio-77cdb266-e764-4c31-8cc9-001631ca7bad",
+            "title": "2.0 16V JTD Executive",
+            "price": "€ 799",
+            "km": "299.999 km",
+            "year": "05/2002",
+            "place": "04347 Leipzig"
+        },
+        {
+            "id": "58738cc2-b089-ce74-e053-0100007f39ae",
+            "href": "/annunci/lancia-phedra-diesel-grigio-58738cc2-b089-ce74-e053-0100007f39ae",
+            "title": "Lancia Phedra",
+            "price": "€ 700",
+            "km": "239.000 km",
+            "year": "03/2004",
+            "place": "36061 Bassano del Grappa"
+        },
+        {
+            "id": "0a158cc2-6f7b-564e-e053-0100007fd3a4",
+            "href": "/annunci/lancia-phedra-diesel-grigio-0a158cc2-6f7b-564e-e053-0100007fd3a4",
+            "title": "Lancia Phedra",
+            "price": "€ 5.800",
+            "km": "164.600 km",
+            "year": "03/2007",
+            "place": "10136 Torino"
+        },
+        {
+            "id": "bb5a23d2-e9ba-486b-96ec-af4ce053fce6",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-platino-diesel-grigio-bb5a23d2-e9ba-486b-96ec-af4ce053fce6",
+            "title": "2.0 MJT 136 CV Platino",
+            "price": "€ 5.500",
+            "km": "170.000 km",
+            "year": "02/2009",
+            "place": "00012 guidonia montecelio"
+        },
+        {
+            "id": "140e8d57-f2a5-4f71-a07b-020442ebd46b",
+            "href": "/annunci/lancia-phedra-oro-2-2-mjt-170-cv-7-posti-diesel-argento-140e8d57-f2a5-4f71-a07b-020442ebd46b",
+            "title": "ORO 2.2 MJT 170 CV 7 POSTI",
+            "price": "€ 3.900",
+            "km": "190.800 km",
+            "year": "10/2008",
+            "place": "33050 Bagnaria Arsa - Udine - Ud"
+        },
+        {
+            "id": "304f083e-8d68-4144-8c6c-fcde4e159613",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-136-diesel-nero-304f083e-8d68-4144-8c6c-fcde4e159613",
+            "title": "2.0JTD 16v Emblema 136",
+            "price": "€ 5.500",
+            "km": "170.408 km",
+            "year": "02/2008",
+            "place": "46980 PATERNA"
+        },
+        {
+            "id": "f3a95b2c-d810-45cf-9825-ccf016176228",
+            "href": "/annunci/lancia-phedra-2-2-mjt-emblema-7-posti-diesel-nero-f3a95b2c-d810-45cf-9825-ccf016176228",
+            "title": "2.2 MJT Emblema... 7 posti...",
+            "price": "€ 4.990",
+            "km": "149.850 km",
+            "year": "08/2008",
+            "place": "25080 Manerba del Garda - Brescia - Bs"
+        },
+        {
+            "id": "9cdc8c08-95f8-4d2f-aacc-96cea64714c2",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-136-diesel-nero-9cdc8c08-95f8-4d2f-aacc-96cea64714c2",
+            "title": "2.0JTD 16v Emblema 136",
+            "price": "€ 5.500",
+            "km": "170.408 km",
+            "year": "02/2008",
+            "place": "02007 Albacete"
+        },
+        {
+            "id": "5fbc30e3-d74a-4b60-92a8-f9e0aff945aa",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-5fbc30e3-d74a-4b60-92a8-f9e0aff945aa",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.800",
+            "km": "340.000 km",
+            "year": "12/2004",
+            "place": "10060 Candiolo"
+        },
+        {
+            "id": "32f29c59-e1d1-4e25-966d-9da0ad5f217b",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-vollausstattung-top-zustand-diesel-grigio-32f29c59-e1d1-4e25-966d-9da0ad5f217b",
+            "title": "2.2 16v JTD*Vollausstattung*TOP Zustand",
+            "price": "€ 3.999",
+            "km": "163.100 km",
+            "year": "01/2006",
+            "place": "77933 Lahr-Langenwinkel"
+        },
+        {
+            "id": "12f902a2-d093-4814-a282-94ad3dd288e6",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-diesel-12f902a2-d093-4814-a282-94ad3dd288e6",
+            "title": "2.0 MJT 136 CV",
+            "price": "€ 1.190",
+            "km": "301.453 km",
+            "year": "01/2007",
+            "place": "21013 Gallarate - Varese - Va"
+        },
+        {
+            "id": "9a35d485-a485-47c0-886c-72758abbde34",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-136cv-executive-diesel-grigio-9a35d485-a485-47c0-886c-72758abbde34",
+            "title": "2.0 16v JTD 136CV Executive",
+            "price": "€ 6.455",
+            "km": "134.392 km",
+            "year": "01/2008",
+            "place": "28232 LAS ROZAS"
+        },
+        {
+            "id": "90c721ff-7db0-4c9c-a098-f08b746e3929",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-dpf-diesel-blu-azzurro-90c721ff-7db0-4c9c-a098-f08b746e3929",
+            "title": "Executive 2,2 JTD 16V DPF",
+            "price": "€ 1.500",
+            "km": "208.000 km",
+            "year": "05/2006",
+            "place": "2230 Gänserndorf"
+        },
+        {
+            "id": "bf550ac4-2f21-337c-e053-0100007f4b89",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-grigio-bf550ac4-2f21-337c-e053-0100007f4b89",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 7.000",
+            "km": "124.000 km",
+            "year": "06/2010",
+            "place": "10136 Torino"
+        },
+        {
+            "id": "de1f93ec-5bf8-42d5-97ac-7cd1f5dfd586",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-7-posti-cambio-automatico-diesel-grigio-de1f93ec-5bf8-42d5-97ac-7cd1f5dfd586",
+            "title": "2.2 MJT Oro Plus 7 posti cambio automatico",
+            "price": "€ 4.900",
+            "km": "145.000 km",
+            "year": "05/2008",
+            "place": "20052 Vignate - Milano - MI"
+        },
+        {
+            "id": "8873cc8b-db77-434f-a9dc-7b0b8ad13146",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-oro-8873cc8b-db77-434f-a9dc-7b0b8ad13146",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.490",
+            "km": "226.000 km",
+            "year": "11/2005",
+            "place": "31040 Trevignano - Treviso - TV"
+        },
+        {
+            "id": "9bd7c5f1-7f23-4c06-9710-541542688888",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-argento-9bd7c5f1-7f23-4c06-9710-541542688888",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 2.900",
+            "km": "224.000 km",
+            "year": "06/2009",
+            "place": "20093 Cologno Monzese - Milano - Mi"
+        },
+        {
+            "id": "0a3dd9c3-0037-3735-e053-0100007fccac",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-beige-0a3dd9c3-0037-3735-e053-0100007fccac",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 4.500",
+            "km": "190.000 km",
+            "year": "09/2009",
+            "place": "44124 Ferrara"
+        },
+        {
+            "id": "53781cf9-245a-48bd-980d-fd2967703d1b",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-executive-diesel-blu-azzurro-53781cf9-245a-48bd-980d-fd2967703d1b",
+            "title": "2.2 Multijet 16v DPF Executive",
+            "price": "€ 2.000",
+            "km": "317.000 km",
+            "year": "12/2008",
+            "place": "3845 HARDERWIJK"
+        },
+        {
+            "id": "1985a50b-8b68-4831-a43a-2dcdacafffc9",
+            "href": "/annunci/lancia-phedra-2-2-multijet-170cv-aut-7posti-platino-navi-pdc-bt-diesel-grigio-1985a50b-8b68-4831-a43a-2dcdacafffc9",
+            "title": "2.2 MultiJet 170cv aut. 7Posti Platino NAVI-PDC-BT",
+            "price": "€ 7.000",
+            "km": "170.000 km",
+            "year": "04/2010",
+            "place": "10126 TORINO-TO"
+        },
+        {
+            "id": "4422cec3-a576-8801-e053-0100007f03d4",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-4422cec3-a576-8801-e053-0100007f03d4",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1.900",
+            "km": "335.000 km",
+            "year": "07/2003",
+            "place": "35036 MONTEGROTTO TERME"
+        },
+        {
+            "id": "6c54ccc3-b9cd-c355-e053-0100007fe43f",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-bronzo-6c54ccc3-b9cd-c355-e053-0100007fe43f",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 3.500",
+            "km": "230.000 km",
+            "year": "09/2008",
+            "place": "18039 Ventimiglia"
+        },
+        {
+            "id": "51fe688f-de3a-4cbf-8397-ab0978063d25",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-dpf-motor-springt-nicht-an-diesel-argento-51fe688f-de3a-4cbf-8397-ab0978063d25",
+            "title": "2.2 16v JTD DPF ~ Motor springt nicht an",
+            "price": "€ 550",
+            "km": "240.000 km",
+            "year": "02/2004",
+            "place": "86368 Gersthofen"
+        },
+        {
+            "id": "e5680294-5cd3-4ff8-b64a-0fd57518db16",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-km-reali-260000-diesel-grigio-e5680294-5cd3-4ff8-b64a-0fd57518db16",
+            "title": "2.2 JTD Emblema km reali 260000",
+            "price": "€ 3.600",
+            "km": "362.145 km",
+            "year": "11/2002",
+            "place": "62011 Cingoli - Macerata - MC"
+        },
+        {
+            "id": "33476c96-7062-4eea-a610-4986730f086b",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-executive-diesel-grigio-33476c96-7062-4eea-a610-4986730f086b",
+            "title": "2.0 16V JTD Executive",
+            "price": "€ 850",
+            "km": "299.999 km",
+            "year": "05/2003",
+            "place": "04347 Leipzig"
+        },
+        {
+            "id": "fb1752ec-a069-4075-a234-ee233c91b4e4",
+            "href": "/annunci/lancia-phedra-emblema-2-2-jtd-7-posti-navigatore-diesel-argento-fb1752ec-a069-4075-a234-ee233c91b4e4",
+            "title": "EMBLEMA 2.2 JTD 7 POSTI NAVIGATORE",
+            "price": "€ 1.900",
+            "km": "251.000 km",
+            "year": "01/2003",
+            "place": "31021 Mogliano Veneto - Treviso"
+        },
+        {
+            "id": "8cc76ee2-aad5-4fed-a18f-9c7396e9ae78",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-128cv-diesel-blu-azzurro-8cc76ee2-aad5-4fed-a18f-9c7396e9ae78",
+            "title": "2.2 JTD Executive FAP 128cv",
+            "price": "€ 2.300",
+            "km": "217.000 km",
+            "year": "03/2006",
+            "place": "26013 Crema"
+        },
+        {
+            "id": "15afe963-60fd-4007-8948-5f7594e0a774",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-7-posti-diesel-grigio-15afe963-60fd-4007-8948-5f7594e0a774",
+            "title": "2.2 MJT Oro Plus 7 posti",
+            "price": "€ 4.500 IVA deducibilePrezzo finale offerto al pubblico, comprensivo di IVA, non vincolato all’acquisto di un finanziamento, a permuta o rottamazione. Passaggio di proprietà e IPT esclusi.",
+            "km": "290.000 km",
+            "year": "06/2009",
+            "place": "84013 Cava Dei Tirreni - Salerno - Sa"
+        },
+        {
+            "id": "f0212229-1601-47c1-a27a-3d7bbb8fcb6e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-blu-azzurro-f0212229-1601-47c1-a27a-3d7bbb8fcb6e",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 5.800",
+            "km": "159.000 km",
+            "year": "01/2010",
+            "place": "36028 Rossano Veneto - Vicenza - Vi"
+        },
+        {
+            "id": "928f7bc3-857c-705f-e053-0100007f51a2",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-120-diesel-nero-928f7bc3-857c-705f-e053-0100007f51a2",
+            "title": "2.0JTD 16v Emblema 120",
+            "price": "€ 6.900",
+            "km": "98.000 km",
+            "year": "12/2007",
+            "place": "08940 BARCELONA"
+        },
+        {
+            "id": "1af953dc-8811-4d54-9948-1b44973991ba",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platinum-km-certificati-garanzia-diesel-blu-azzurro-1af953dc-8811-4d54-9948-1b44973991ba",
+            "title": "2.2 MJT CA platinum KM CERTIFICATI,GARANZIA",
+            "price": "€ 4.850",
+            "km": "185.900 km",
+            "year": "05/2009",
+            "place": "41122 Modena - Mo"
+        },
+        {
+            "id": "2e8ae40f-7ea3-4376-a5b0-2a4b871cd05d",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-2e8ae40f-7ea3-4376-a5b0-2a4b871cd05d",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.350",
+            "km": "326.187 km",
+            "year": "04/2005",
+            "place": "20081 Abbiategrasso - Milano - Mi"
+        },
+        {
+            "id": "236d2ec4-c581-f930-e053-0100007fe149",
+            "href": "/annunci/lancia-phedra-2-0-multijet-136-dpf-platino-diesel-blu-azzurro-236d2ec4-c581-f930-e053-0100007fe149",
+            "title": "2.0 Multijet 136 DPF Platino",
+            "price": "€ 2.000 IVA deducibile",
+            "km": "167.542 km",
+            "year": "09/2005",
+            "place": "94000 Créteil"
+        },
+        {
+            "id": "09152fc4-0512-ad6d-e053-0100007f1f17",
+            "href": "/annunci/lancia-phedra-vpc-2-0-multijet-emblema-diesel-blu-azzurro-09152fc4-0512-ad6d-e053-0100007f1f17",
+            "title": "VPC 2.0 MULTIJET EMBLEMA",
+            "price": "€ 2.500 IVA deducibile",
+            "km": "105.200 km",
+            "year": "07/2004",
+            "place": "19100 Brive-la-Gaillarde"
+        },
+        {
+            "id": "c2b1901a-2123-48ca-8c97-0ded78c56a90",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-c2b1901a-2123-48ca-8c97-0ded78c56a90",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 3.500",
+            "km": "227.000 km",
+            "year": "06/2004",
+            "place": "74028 Sava - Taranto"
+        },
+        {
+            "id": "ac345bc5-90fd-462b-e053-0100007f130c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-ac345bc5-90fd-462b-e053-0100007f130c",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.500",
+            "km": "159.000 km",
+            "year": "10/2005",
+            "place": "41043 Formigine (MO)"
+        },
+        {
+            "id": "e7275746-30b2-4ca1-b9d9-0f43c031e5de",
+            "href": "/annunci/lancia-phedra-2-0-jtd-aut-fap-automatica-7-posti-diesel-blu-azzurro-e7275746-30b2-4ca1-b9d9-0f43c031e5de",
+            "title": "2.0 JTD aut. FAP automatica 7 posti",
+            "price": "€ 2.800",
+            "km": "140.000 km",
+            "year": "12/2006",
+            "place": "20090 Segrate - Milano"
+        },
+        {
+            "id": "624747c5-94e5-191c-e053-0100007fd6f8",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-nero-624747c5-94e5-191c-e053-0100007fd6f8",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 4.700",
+            "km": "178.000 km",
+            "year": "10/2008",
+            "place": "00100 ROMA"
+        },
+        {
+            "id": "4cf82d94-6aea-4b1d-b94f-7a73e2641749",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-limited-edition-diesel-bronzo-4cf82d94-6aea-4b1d-b94f-7a73e2641749",
+            "title": "2.2 MJT CA Limited Edition",
+            "price": "€ 3.900",
+            "km": "196.000 km",
+            "year": "03/2009",
+            "place": "10093 collegno"
+        },
+        {
+            "id": "f10c21c5-b6a6-5c50-e053-0100007f0552",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-marrone-f10c21c5-b6a6-5c50-e053-0100007f0552",
+            "title": "2.2 MJT Platino",
+            "price": "€ 3.600",
+            "km": "223.000 km",
+            "year": "06/2008",
+            "place": "33100 Udine"
+        },
+        {
+            "id": "96711fc5-24f5-9d38-e053-0100007f18e5",
+            "href": "/annunci/lancia-phedra-diesel-grigio-96711fc5-24f5-9d38-e053-0100007f18e5",
+            "title": "Lancia Phedra",
+            "price": "€ 4.300",
+            "km": "167.000 km",
+            "year": "08/2007",
+            "place": "10137 torino"
+        },
+        {
+            "id": "384e606b-e21b-457f-a5f6-9ee099bf3ceb",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-limited-edit-7pl-fap-diesel-bronzo-384e606b-e21b-457f-a5f6-9ee099bf3ceb",
+            "title": "2.2 Multijet 16v Limited Edit. 7pl. FAP",
+            "price": "€ 3.500",
+            "km": "191.300 km",
+            "year": "07/2009",
+            "place": "1070 Anderlecht"
+        },
+        {
+            "id": "b8897456-cec9-4831-a653-3dd5314a236d",
+            "href": "/annunci/lancia-phedra-2-0-jtd-multijet-16v-dpf-diesel-grigio-b8897456-cec9-4831-a653-3dd5314a236d",
+            "title": "2,0 JTD Multijet 16V DPF",
+            "price": "€ 3.800",
+            "km": "166.033 km",
+            "year": "05/2007",
+            "place": "4713 Gallspach"
+        },
+        {
+            "id": "a484736a-6b1c-4aa2-9ae5-e05deb8cb60a",
+            "href": "/annunci/lancia-phedra-limited-edition-aut-garanzia-lancia-24-mesi-diesel-nero-a484736a-6b1c-4aa2-9ae5-e05deb8cb60a",
+            "title": "LIMITED EDITION AUT **GARANZIA LANCIA 24 MESI\"\"",
+            "price": "€ 9.999",
+            "km": "115.000 km",
+            "year": "11/2009",
+            "place": "89020 Sinopoli - Reggio Calabria"
+        },
+        {
+            "id": "7371c6df-9eeb-4a7a-a934-37d9ca996279",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-argento-7371c6df-9eeb-4a7a-a934-37d9ca996279",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 5.900",
+            "km": "124.000 km",
+            "year": "09/2008",
+            "place": "20022 Castano Primo - Milano - MI"
+        },
+        {
+            "id": "92f2ff18-e5a6-4843-9a50-9331f8e3fbfc",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-ss-aut-diesel-beige-92f2ff18-e5a6-4843-9a50-9331f8e3fbfc",
+            "title": "2.2JTD 16v SS Aut.",
+            "price": "€ 10.990",
+            "km": "75.300 km",
+            "year": "10/2009",
+            "place": "28804 ALCALA DE HENARES"
+        },
+        {
+            "id": "6648194e-fdaf-41ec-bdcf-fe96d2aa1329",
+            "href": "/annunci/lancia-phedra-2-0-jtd-aut-emblema-fap-diesel-blu-azzurro-6648194e-fdaf-41ec-bdcf-fe96d2aa1329",
+            "title": "2.0 JTD aut. Emblema FAP",
+            "price": "€ 1.000",
+            "km": "150.000 km",
+            "year": "06/2004",
+            "place": "94015 piazza armerina"
+        },
+        {
+            "id": "f6a16d6e-ef50-4adb-b8b1-83cb115357fc",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-executive-diesel-blu-azzurro-f6a16d6e-ef50-4adb-b8b1-83cb115357fc",
+            "title": "2.0 MJT 136 CV Executive",
+            "price": "€ 3.500",
+            "km": "183.616 km",
+            "year": "10/2006",
+            "place": "10100 Torino - To"
+        },
+        {
+            "id": "356c9d0e-6475-405e-90b4-0e8764e9baa6",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-navi-diesel-grigio-356c9d0e-6475-405e-90b4-0e8764e9baa6",
+            "title": "2.2 16v JTD Executive*7-Sitze*NAVI*",
+            "price": "€ 2.499",
+            "km": "225.000 km",
+            "year": "06/2006",
+            "place": "66333 Voelklingen-wehrden"
+        },
+        {
+            "id": "0479bca0-099e-4323-8e9a-3d24ce4bd56d",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-argento-0479bca0-099e-4323-8e9a-3d24ce4bd56d",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 5.500",
+            "km": "233.000 km",
+            "year": "06/2010",
+            "place": "14057 Asti"
+        },
+        {
+            "id": "aea53e3c-1114-4a63-8ed1-542933008ef6",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-aea53e3c-1114-4a63-8ed1-542933008ef6",
+            "title": "2.2 MJT Platino",
+            "price": "€ 7.600",
+            "km": "133.781 km",
+            "year": "09/2010",
+            "place": "70051 Barletta - Bari"
+        },
+        {
+            "id": "a2202a76-0f84-45ff-9427-e02fde0f41e9",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-a2202a76-0f84-45ff-9427-e02fde0f41e9",
+            "title": "2.2 MJT Platino",
+            "price": "€ 4.200",
+            "km": "244.000 km",
+            "year": "02/2008",
+            "place": "37136 Verona"
+        },
+        {
+            "id": "4f90cb7e-e508-4ef1-a8d3-9a4dbeb89fed",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-4f90cb7e-e508-4ef1-a8d3-9a4dbeb89fed",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 3.300",
+            "km": "232.000 km",
+            "year": "12/2006",
+            "place": "20100 Milano - Mi"
+        },
+        {
+            "id": "bae9b780-de63-4a2e-b31c-d4bbaba75129",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-beige-bae9b780-de63-4a2e-b31c-d4bbaba75129",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 2.800",
+            "km": "280.000 km",
+            "year": "01/2009",
+            "place": "47122 Forlì Cesena - Fc"
+        },
+        {
+            "id": "e340d1c5-92b9-4504-a75e-164487683cf7",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-dpf-connect-nav-diesel-nero-e340d1c5-92b9-4504-a75e-164487683cf7",
+            "title": "2,2 JTD 16V DPF Connect Nav",
+            "price": "€ 850",
+            "km": "220.000 km",
+            "year": "08/2004",
+            "place": "2231 Strasshof an der Nordbahn"
+        },
+        {
+            "id": "868cf8de-27b8-4006-b97b-630051b275a6",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-grigio-868cf8de-27b8-4006-b97b-630051b275a6",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 4.300",
+            "km": "148.000 km",
+            "year": "10/2009",
+            "place": "24050 Bergamo"
+        },
+        {
+            "id": "930730cb-3019-4784-9153-0c6890527043",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-argento-930730cb-3019-4784-9153-0c6890527043",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 3.000",
+            "km": "280.000 km",
+            "year": "11/2008",
+            "place": "20020 CESATE"
+        },
+        {
+            "id": "9c984048-a6df-4b69-9fa9-58d3d2c54f7a",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-plus-diesel-argento-9c984048-a6df-4b69-9fa9-58d3d2c54f7a",
+            "title": "2.2 MJT CA Oro Plus",
+            "price": "€ 3.000",
+            "km": "280.000 km",
+            "year": "11/2008",
+            "place": "20020 CESATE"
+        },
+        {
+            "id": "0afc6357-b95e-4fab-9dee-d9614de9e37c",
+            "href": "/annunci/lancia-phedra-2-0-jtd-aut-fap-diesel-blu-azzurro-0afc6357-b95e-4fab-9dee-d9614de9e37c",
+            "title": "2.0 JTD aut. FAP",
+            "price": "€ 2.500",
+            "km": "140.000 km",
+            "year": "01/2007",
+            "place": "20090 Segrate - Milano"
+        },
+        {
+            "id": "ffceb3c5-7ff4-6b17-e053-0100007f8407",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-ffceb3c5-7ff4-6b17-e053-0100007f8407",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 3.000",
+            "km": "303.000 km",
+            "year": "09/2003",
+            "place": "10019 STRAMBINO"
+        },
+        {
+            "id": "10fb1adc-0f83-40e9-b739-a612d700a93a",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-10fb1adc-0f83-40e9-b739-a612d700a93a",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.500",
+            "km": "299.999 km",
+            "year": "09/2003",
+            "place": "20017 Rho - Milano"
+        },
+        {
+            "id": "7487ed37-380a-4f35-b149-c69c5c91c72a",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-7-posti-diesel-marrone-7487ed37-380a-4f35-b149-c69c5c91c72a",
+            "title": "2.0 MJT 136 CV Oro 7 POSTI",
+            "price": "€ 3.500",
+            "km": "150.000 km",
+            "year": "09/2008",
+            "place": "20090 Buccinasco - Milano - MI"
+        },
+        {
+            "id": "40b5bee8-0939-4319-8179-c6fbd8587793",
+            "href": "/annunci/lancia-phedra-leder-navi-diesel-grigio-40b5bee8-0939-4319-8179-c6fbd8587793",
+            "title": "leder Navi",
+            "price": "€ 2.399",
+            "km": "225.800 km",
+            "year": "02/2008",
+            "place": "90431 Nürnberg"
+        },
+        {
+            "id": "0867e8c5-c290-cb49-e053-0100007f6e17",
+            "href": "/annunci/lancia-phedra-lancia-phedra-2000-allestimento-oro-diesel-nero-0867e8c5-c290-cb49-e053-0100007f6e17",
+            "title": "Lancia Phedra 2000 allestimento Oro",
+            "price": "€ 3.900 IVA deducibile",
+            "km": "151.000 km",
+            "year": "10/2009",
+            "place": "65019 Pianella"
+        },
+        {
+            "id": "2f4d80a2-0bf9-48e7-8396-b2f61380dcb5",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-beige-2f4d80a2-0bf9-48e7-8396-b2f61380dcb5",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 2.800",
+            "km": "280.000 km",
+            "year": "01/2009",
+            "place": "47122 Forlì Cesena - Fc"
+        },
+        {
+            "id": "a205b02b-9a1b-4d81-ae9c-3158236c9573",
+            "href": "/annunci/lancia-phedra-2-0-jtd-aut-fap-diesel-blu-azzurro-a205b02b-9a1b-4d81-ae9c-3158236c9573",
+            "title": "2.0 JTD aut. FAP",
+            "price": "€ 2.400",
+            "km": "140.000 km",
+            "year": "01/2007",
+            "place": "20090 Segrate - Milano"
+        },
+        {
+            "id": "652506fb-a272-44cd-9c20-26f28a8380b2",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-652506fb-a272-44cd-9c20-26f28a8380b2",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1.890",
+            "km": "229.400 km",
+            "year": "10/2002",
+            "place": "10146 Torino - To"
+        },
+        {
+            "id": "f2540b1d-f3ab-4549-a07c-16ae4829ab66",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-navi-xenon-telefono-7-posti-diesel-argento-f2540b1d-f3ab-4549-a07c-16ae4829ab66",
+            "title": "2.2 JTD Emblema FAP Navi Xenon Telefono 7 posti",
+            "price": "€ 2.900",
+            "km": "177.500 km",
+            "year": "09/2002",
+            "place": "48018 Faenza"
+        },
+        {
+            "id": "f3d900bc-6134-422c-9484-642bc52feaac",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-executive-136-diesel-grigio-f3d900bc-6134-422c-9484-642bc52feaac",
+            "title": "2.0JTD 16v Executive 136",
+            "price": "€ 7.490",
+            "km": "150.000 km",
+            "year": "06/2007",
+            "place": "28522 RIVAS VACIAMADRID"
+        },
+        {
+            "id": "2df5f0fa-efe2-4053-b91f-e7fcbaa207ce",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-blu-azzurro-2df5f0fa-efe2-4053-b91f-e7fcbaa207ce",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 5.500",
+            "km": "159.000 km",
+            "year": "01/2010",
+            "place": "36028 Rossano Veneto - Vicenza - Vi"
+        },
+        {
+            "id": "b2f71813-609a-44be-8d71-471dfcbd973e",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-argento-b2f71813-609a-44be-8d71-471dfcbd973e",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 3.990",
+            "km": "201.000 km",
+            "year": "04/2008",
+            "place": "10043 Orbassano - Torino"
+        },
+        {
+            "id": "d99270c2-032a-43b5-aefb-b4fbdbfcf310",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-diesel-blu-azzurro-d99270c2-032a-43b5-aefb-b4fbdbfcf310",
+            "title": "2.0 MJT 136 CV",
+            "price": "€ 5.500",
+            "km": "157.000 km",
+            "year": "09/2008",
+            "place": "40121 Bologna- BO"
+        },
+        {
+            "id": "51bfba96-33cb-4164-b054-168e6b80760c",
+            "href": "/annunci/lancia-phedra-2-0-jtd-aut-fap-diesel-blu-azzurro-51bfba96-33cb-4164-b054-168e6b80760c",
+            "title": "2.0 JTD aut. FAP",
+            "price": "€ 2.400",
+            "km": "144.000 km",
+            "year": "01/2007",
+            "place": "20090 Segrate - Milano"
+        },
+        {
+            "id": "86efcd59-1336-4453-9ac1-1804eb12b8a9",
+            "href": "/annunci/lancia-phedra-2-2-jtd-diesel-nero-86efcd59-1336-4453-9ac1-1804eb12b8a9",
+            "title": "2,2 JTD",
+            "price": "€ 6.400",
+            "km": "116.000 km",
+            "year": "05/2010",
+            "place": "2326 Lanzendorf"
+        },
+        {
+            "id": "4da923ec-f76f-419e-8694-af2c16d06036",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-4da923ec-f76f-419e-8694-af2c16d06036",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.000",
+            "km": "320.000 km",
+            "year": "12/2004",
+            "place": "76014 spinazzola"
+        },
+        {
+            "id": "f30f9c61-df55-4cd8-8409-a1cda55c6904",
+            "href": "/annunci/lancia-phedra-2-2mjt-170cv-garanzia-km-certificati-lancia-diesel-grigio-f30f9c61-df55-4cd8-8409-a1cda55c6904",
+            "title": "2.2MJT 170cv GARANZIA, km certificati LANCIA",
+            "price": "€ 3.950",
+            "km": "90.000 km",
+            "year": "02/2010",
+            "place": "35010 Cadoneghe – Padova – Pd"
+        },
+        {
+            "id": "5c0476c6-1188-595b-e053-0100007f520b",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-argento-5c0476c6-1188-595b-e053-0100007f520b",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 6.500",
+            "km": "220.000 km",
+            "year": "02/2010",
+            "place": "52100 Arezzo"
+        },
+        {
+            "id": "88758659-68f0-4a38-b063-69b1e82dcc57",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-limited-edition-diesel-grigio-88758659-68f0-4a38-b063-69b1e82dcc57",
+            "title": "2.0 MJT 136 CV Limited Edition",
+            "price": "€ 4.000",
+            "km": "260.000 km",
+            "year": "07/2010",
+            "place": "36061 Bassano del Grappa - Vi"
+        },
+        {
+            "id": "89d50928-de8b-4cd8-8de6-e5ac38fe0f26",
+            "href": "/annunci/lancia-phedra-2-2-multijet-platino-7-sitzer-navi-xenon-diesel-argento-89d50928-de8b-4cd8-8de6-e5ac38fe0f26",
+            "title": "2.2 Multijet Platino*7 Sitzer*Navi*Xenon",
+            "price": "€ 2.500",
+            "km": "192.000 km",
+            "year": "06/2010",
+            "place": "91186 Büchenbach"
+        },
+        {
+            "id": "17f8015c-1be9-472f-a9c6-0dbaf6ac7303",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-nero-17f8015c-1be9-472f-a9c6-0dbaf6ac7303",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 1.990",
+            "km": "235.000 km",
+            "year": "06/2008",
+            "place": "98125 messina"
+        },
+        {
+            "id": "67f7cf7e-785e-464d-abd1-a06147e809b9",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-platino-dpf-diesel-nero-67f7cf7e-785e-464d-abd1-a06147e809b9",
+            "title": "2,0 JTD 16V Platino DPF",
+            "price": "€ 2.490",
+            "km": "207.500 km",
+            "year": "06/2008",
+            "place": "4600 Wels"
+        },
+        {
+            "id": "f7ba40ef-3fe6-4f7a-a22f-88a12f06cf77",
+            "href": "/annunci/lancia-phedra-2-2mjt-170cv-garanzia-km-certificati-lancia-diesel-grigio-f7ba40ef-3fe6-4f7a-a22f-88a12f06cf77",
+            "title": "2.2MJT 170cv GARANZIA, km certificati LANCIA",
+            "price": "€ 3.950",
+            "km": "90.000 km",
+            "year": "02/2010",
+            "place": "35010 Cadoneghe – Padova – Pd"
+        },
+        {
+            "id": "fc585bba-959d-40f0-a13a-cdb2c4458b90",
+            "href": "/annunci/lancia-phedra-3-0-v6-24v-emblema-benzina-argento-fc585bba-959d-40f0-a13a-cdb2c4458b90",
+            "title": "3.0 V6 24v Emblema",
+            "price": "€ 999",
+            "km": "239.000 km",
+            "year": "08/2003",
+            "place": "06317 Seegebiet Mansfelder Land"
+        },
+        {
+            "id": "e74bbee6-627c-4683-97ce-56f263e58b0f",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-l-edition-diesel-nero-e74bbee6-627c-4683-97ce-56f263e58b0f",
+            "title": "2.2JTD 16v L.Edition",
+            "price": "€ 5.999",
+            "km": "210.000 km",
+            "year": "01/2010",
+            "place": "28035 MADRID"
+        },
+        {
+            "id": "9816e204-d9a2-4ad4-bcef-fba631a085e8",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-executive-diesel-grigio-9816e204-d9a2-4ad4-bcef-fba631a085e8",
+            "title": "2.0 16V JTD Executive",
+            "price": "€ 799",
+            "km": "300.000 km",
+            "year": "05/2003",
+            "place": "04347 Leipzig"
+        },
+        {
+            "id": "ac2e76f8-0b28-47a4-ae9e-10ba6c089a1b",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-argento-ac2e76f8-0b28-47a4-ae9e-10ba6c089a1b",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.500",
+            "km": "299.999 km",
+            "year": "09/2003",
+            "place": "20017 Rho - Milano"
+        },
+        {
+            "id": "21ce8db1-7416-4128-aaf3-e8bf2f2e2227",
+            "href": "/annunci/lancia-phedra-executive-2-2-jtd-16v-dpf-diesel-grigio-21ce8db1-7416-4128-aaf3-e8bf2f2e2227",
+            "title": "Executive 2,2 JTD 16V DPF",
+            "price": "€ 2.999",
+            "km": "175.000 km",
+            "year": "12/2004",
+            "place": "6842 Koblach"
+        },
+        {
+            "id": "b1fe2eb2-5dca-4a70-a09a-b3bae3bec3ec",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-grigio-b1fe2eb2-5dca-4a70-a09a-b3bae3bec3ec",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 3.200",
+            "km": "148.000 km",
+            "year": "07/2009",
+            "place": "24050 Bergamo"
+        },
+        {
+            "id": "e27e0e0c-273a-412a-aab5-a428f12af17b",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-argento-e27e0e0c-273a-412a-aab5-a428f12af17b",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 3.500",
+            "km": "142.000 km",
+            "year": "05/2003",
+            "place": "42041 Lentigione di Brescello - Reggio Emilia - Re"
+        },
+        {
+            "id": "6a46b3c6-14a8-c37a-e053-0100007ff125",
+            "href": "/annunci/lancia-phedra-2-2-jtd-fap-diesel-argento-6a46b3c6-14a8-c37a-e053-0100007ff125",
+            "title": "2.2 JTD FAP",
+            "price": "€ 1.500",
+            "km": "250.000 km",
+            "year": "05/2004",
+            "place": "24030 Medolago"
+        },
+        {
+            "id": "5923f26c-c81a-44a2-a966-8efdb5aebff2",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-grigio-5923f26c-c81a-44a2-a966-8efdb5aebff2",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 6.900",
+            "km": "130.000 km",
+            "year": "05/2010",
+            "place": "22070 Bulgarograsso - Como - Co"
+        },
+        {
+            "id": "827e2841-8df8-45c1-acd5-1dcf000bb993",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-827e2841-8df8-45c1-acd5-1dcf000bb993",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 3.900",
+            "km": "161.000 km",
+            "year": "10/2004",
+            "place": "33100 Udine - UD"
+        },
+        {
+            "id": "dbb07a7e-3a79-4e10-a5b5-7416a6913942",
+            "href": "/annunci/lancia-phedra-172-phedra-2-2-multijet-16v-dpf-automatik-oro-diesel-blu-azzurro-dbb07a7e-3a79-4e10-a5b5-7416a6913942",
+            "title": "172 Phedra 2.2 Multijet 16v DPF Automatik Oro",
+            "price": "€ 3.900",
+            "km": "186.743 km",
+            "year": "08/2008",
+            "place": "86156 Augsburg"
+        },
+        {
+            "id": "1c449acc-d757-47a4-be38-b959cc8ca421",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-136-diesel-blu-azzurro-1c449acc-d757-47a4-be38-b959cc8ca421",
+            "title": "2.0JTD 16v Emblema 136",
+            "price": "€ 5.990",
+            "km": "148.000 km",
+            "year": "06/2007",
+            "place": "8830 SANT BOI DE LLOBREGAT"
+        },
+        {
+            "id": "2714c368-2bd5-419c-8400-10801a6b5272",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-2714c368-2bd5-419c-8400-10801a6b5272",
+            "title": "2.2 MJT Platino",
+            "price": "€ 3.400",
+            "km": "191.068 km",
+            "year": "12/2009",
+            "place": "50018 Scandicci"
+        },
+        {
+            "id": "aefae47c-f429-4992-b71a-fadda6046364",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-plus-fap-diesel-argento-aefae47c-f429-4992-b71a-fadda6046364",
+            "title": "2.2 JTD Emblema Plus FAP",
+            "price": "€ 2.500",
+            "km": "170.000 km",
+            "year": "07/2006",
+            "place": "81030 Cesa - Ce"
+        },
+        {
+            "id": "5c06ed6d-d9ba-4b1b-b446-724808ccaf8d",
+            "href": "/annunci/lancia-phedra-2-2-multijet-170cv-7posti-platino-xeno-navi-cruise-diesel-blu-azzurro-5c06ed6d-d9ba-4b1b-b446-724808ccaf8d",
+            "title": "2.2 MultiJet 170cv 7Posti Platino XENO-NAVI-CRUISE",
+            "price": "€ 7.800",
+            "km": "120.000 km",
+            "year": "07/2008",
+            "place": "10126 TORINO-TO"
+        },
+        {
+            "id": "92e38d02-3ec5-4a45-9328-d4680c75b019",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-beige-92e38d02-3ec5-4a45-9328-d4680c75b019",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 2.800",
+            "km": "280.000 km",
+            "year": "01/2009",
+            "place": "47122 Forlì Cesena - Fc"
+        },
+        {
+            "id": "b3637c25-7b74-4204-a668-08316d23fdd6",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-b3637c25-7b74-4204-a668-08316d23fdd6",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 3.800",
+            "km": "117.000 km",
+            "year": "03/2006",
+            "place": "22100 Montano Lucino - Como - Co"
+        },
+        {
+            "id": "0608d91d-8fd5-494e-86c6-9b3bc61eca42",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-collaudata-diesel-blu-azzurro-0608d91d-8fd5-494e-86c6-9b3bc61eca42",
+            "title": "2.0 MJT 136 CV * COLLAUDATA *",
+            "price": "€ 3.400",
+            "km": "197.000 km",
+            "year": "09/2008",
+            "place": "33170 Pordenone - Pn"
+        },
+        {
+            "id": "8d20e268-8245-4758-966f-96c26a7343b4",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-collaudata-diesel-8d20e268-8245-4758-966f-96c26a7343b4",
+            "title": "2.0 MJT 136 CV * COLLAUDATA *",
+            "price": "€ 3.400",
+            "km": "197.000 km",
+            "year": "09/2008",
+            "place": "31029 Vittorio Veneto - Treviso"
+        },
+        {
+            "id": "60ef2596-b588-42d1-8c30-897dd80c1176",
+            "href": "/annunci/lancia-phedra-diesel-marrone-60ef2596-b588-42d1-8c30-897dd80c1176",
+            "title": "Lancia Phedra",
+            "price": "€ 2.500",
+            "km": "225.775 km",
+            "year": "07/2008",
+            "place": "67435 Neustadt an der Weinstraße"
+        },
+        {
+            "id": "80c7285a-f928-44e9-b9dc-d26008628e64",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-128cv-7plazas-5p-navy-baca-parktro-diesel-beige-80c7285a-f928-44e9-b9dc-d26008628e64",
+            "title": "2.2 JTD 16v 128cv 7Plazas 5p # NAVY, BACA, PARKTRO",
+            "price": "€ 5.350",
+            "km": "114.500 km",
+            "year": "06/2006",
+            "place": "28025 ALPEDRETE"
+        },
+        {
+            "id": "1d3de3b7-5be2-42d8-b1df-aa78271943ee",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-128cv-7plazas-5p-navy-baca-parktro-diesel-beige-1d3de3b7-5be2-42d8-b1df-aa78271943ee",
+            "title": "2.2 JTD 16v 128cv 7Plazas 5p # NAVY, BACA, PARKTRO",
+            "price": "€ 5.350",
+            "km": "114.500 km",
+            "year": "06/2006",
+            "place": "28430 ALPEDRETE"
+        },
+        {
+            "id": "8a8fe44f-302d-4d36-bfb4-97cc6415bbf1",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-executive-136-diesel-blu-azzurro-8a8fe44f-302d-4d36-bfb4-97cc6415bbf1",
+            "title": "2.0JTD 16v Executive 136",
+            "price": "€ 3.299",
+            "km": "186.386 km",
+            "year": "03/2008",
+            "place": "3931 MIENGO"
+        },
+        {
+            "id": "f8b95253-ee15-41dc-beda-6e3444821f57",
+            "href": "/annunci/lancia-phedra-phedra-2-2-jtd-executive-navi-tel-sedili-riscal-diesel-argento-f8b95253-ee15-41dc-beda-6e3444821f57",
+            "title": "Phedra 2.2 jtd Executive NAVI TEL SEDILI RISCAL",
+            "price": "€ 3.500",
+            "km": "180.000 km",
+            "year": "10/2002",
+            "place": "00132 Roma - RM"
+        },
+        {
+            "id": "c4a05684-cd57-45cb-90c0-1a16831af114",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-argento-c4a05684-cd57-45cb-90c0-1a16831af114",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 3.990",
+            "km": "201.000 km",
+            "year": "04/2008",
+            "place": "10043 Orbassano - Torino"
+        },
+        {
+            "id": "1fec5ac8-6bd5-4a0c-e053-0100007f8a89",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-1fec5ac8-6bd5-4a0c-e053-0100007f8a89",
+            "title": "2.2 MJT Platino",
+            "price": "€ 3.800",
+            "km": "189.000 km",
+            "year": "10/2009",
+            "place": "25030 BS"
+        },
+        {
+            "id": "08be67a0-b2cd-4d95-8611-bdf1c6b1a770",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-cambio-autom-navigatore-full-opt-diesel-argento-08be67a0-b2cd-4d95-8611-bdf1c6b1a770",
+            "title": "2.2 MJT Platino Cambio Autom. Navigatore Full Opt.",
+            "price": "€ 2.990",
+            "km": "295.000 km",
+            "year": "08/2008",
+            "place": "36013 Piovene Rocchette – Vicenza – Vi"
+        },
+        {
+            "id": "1b91f209-1d98-4032-a023-cc30a62342ee",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-diesel-blu-azzurro-1b91f209-1d98-4032-a023-cc30a62342ee",
+            "title": "2.0 MJT 136 CV",
+            "price": "€ 2.900",
+            "km": "182.120 km",
+            "year": "05/2008",
+            "place": "23016 Mantello - So"
+        },
+        {
+            "id": "7d521980-453c-4bb8-b68c-41fe0fea82a0",
+            "href": "/annunci/lancia-phedra-2-0-mjt-oro-plus-136cv-navigatore-diesel-grigio-7d521980-453c-4bb8-b68c-41fe0fea82a0",
+            "title": "2.0 mjt Oro Plus 136cv NAVIGATORE",
+            "price": "€ 3.999",
+            "km": "259.000 km",
+            "year": "08/2010",
+            "place": "84020 Bivio di Palomonte - Salerno"
+        },
+        {
+            "id": "9aacccdd-0eaf-4787-bfd4-fb371a7f0d63",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-executive-136-diesel-grigio-9aacccdd-0eaf-4787-bfd4-fb371a7f0d63",
+            "title": "2.0JTD 16v Executive 136",
+            "price": "€ 7.490",
+            "km": "150.000 km",
+            "year": "06/2007",
+            "place": "28522 RIVAS VACIAMADRID"
+        },
+        {
+            "id": "743f8db4-cac8-4139-93d6-416c914ab43e",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-oro-dpf-diesel-blu-azzurro-743f8db4-cac8-4139-93d6-416c914ab43e",
+            "title": "2,0 JTD 16V Oro DPF",
+            "price": "€ 2.950",
+            "km": "170.000 km",
+            "year": "07/2009",
+            "place": "1210 Wien 21."
+        },
+        {
+            "id": "cfebfbc7-4440-d834-e053-0100007f8521",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-argento-diesel-marrone-cfebfbc7-4440-d834-e053-0100007f8521",
+            "title": "2.0 MJT 120 CV Argento",
+            "price": "€ 2.800",
+            "km": "130.000 km",
+            "year": "09/2008",
+            "place": "42121 Reggio Emilia"
+        },
+        {
+            "id": "368f6992-e21b-48fa-8b97-575168884c11",
+            "href": "/annunci/lancia-phedra-3-0-v6-lpg-gasanlage-tuev-bis-2023-gpl-grigio-368f6992-e21b-48fa-8b97-575168884c11",
+            "title": "3.0 V6 ! LPG-Gasanlage ! TÜV bis 2023 !",
+            "price": "€ 1.990",
+            "km": "260.105 km",
+            "year": "02/2004",
+            "place": "52249 Eschweiler (bei Aachen)"
+        },
+        {
+            "id": "0e5eff30-dd43-4a7a-8bd3-f4a316f74109",
+            "href": "/annunci/lancia-phedra-3-0-v6-24v-executive-automatik-benzina-argento-0e5eff30-dd43-4a7a-8bd3-f4a316f74109",
+            "title": "3.0 V6 24v Executive Automatik",
+            "price": "€ 999",
+            "km": "240.500 km",
+            "year": "08/2003",
+            "place": "04442 Zwenkau"
+        },
+        {
+            "id": "d53d8f82-4556-4964-86a4-c0f0b13bba9b",
+            "href": "/annunci/lancia-phedra-2-2-multijet-platino-170cv-solo-120000km-7-posti-diesel-rosso-d53d8f82-4556-4964-86a4-c0f0b13bba9b",
+            "title": "2.2 MULTIJET Platino 170cv SOLO 120000KM! 7 POSTI",
+            "price": "€ 6.500",
+            "km": "120.000 km",
+            "year": "03/2009",
+            "place": "10134 Torino - To"
+        },
+        {
+            "id": "ea0afac9-9b70-9002-e053-0100007f23d7",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-platino-diesel-grigio-ea0afac9-9b70-9002-e053-0100007f23d7",
+            "title": "2.0 MJT 136 CV Platino",
+            "price": "€ 3.500",
+            "km": "260.000 km",
+            "year": "12/2009",
+            "place": "73030 LE"
+        },
+        {
+            "id": "8ab59ec9-eae1-ac08-e053-0100007fc704",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-136-diesel-beige-8ab59ec9-eae1-ac08-e053-0100007fc704",
+            "title": "2.0JTD 16v Emblema 136",
+            "price": "€ 7.000",
+            "km": "94.000 km",
+            "year": "09/2007",
+            "place": "04700 El Ejido"
+        },
+        {
+            "id": "569e86c9-b65f-f92e-e053-0100007f7048",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-diesel-blu-azzurro-569e86c9-b65f-f92e-e053-0100007f7048",
+            "title": "2.2 JTD 16v",
+            "price": "€ 100",
+            "km": "211.000 km",
+            "year": "02/2004",
+            "place": "7000 Mons"
+        },
+        {
+            "id": "75115461-09fe-4f0e-b443-daffe42f75f3",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-grigio-75115461-09fe-4f0e-b443-daffe42f75f3",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 4.400",
+            "km": "178.000 km",
+            "year": "09/2009",
+            "place": "52100 Arezzo"
+        },
+        {
+            "id": "807c2e3e-9811-4ba3-b244-aec3b4aaff33",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-807c2e3e-9811-4ba3-b244-aec3b4aaff33",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.850",
+            "km": "190.000 km",
+            "year": "08/2007",
+            "place": "35010 massanzago"
+        },
+        {
+            "id": "5f142536-27b3-44eb-a2e3-74e03267265e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-executive-diesel-blu-azzurro-5f142536-27b3-44eb-a2e3-74e03267265e",
+            "title": "2.0 MJT 136 CV Executive",
+            "price": "€ 1.700",
+            "km": "190.000 km",
+            "year": "08/2007",
+            "place": "35010 massanzago"
+        },
+        {
+            "id": "31cd98f5-cf6c-448f-8494-438c330477f2",
+            "href": "/annunci/lancia-phedra-diesel-marrone-31cd98f5-cf6c-448f-8494-438c330477f2",
+            "title": "Lancia Phedra",
+            "price": "€ 3.900",
+            "km": "220.000 km",
+            "year": "06/2007",
+            "place": "35013 Cittadella - Padova"
+        },
+        {
+            "id": "83314cc9-b5da-715d-e053-0100007fe1d4",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-diesel-oro-83314cc9-b5da-715d-e053-0100007fe1d4",
+            "title": "2.2 MJT Oro",
+            "price": "€ 3.900",
+            "km": "161.000 km",
+            "year": "04/2010",
+            "place": "20063 Cernusco sul Naviglio"
+        },
+        {
+            "id": "428108c9-ab5b-3e27-e053-0100007f02f5",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-marrone-428108c9-ab5b-3e27-e053-0100007f02f5",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 8.250",
+            "km": "143.000 km",
+            "year": "03/2010",
+            "place": "38015 lavis"
+        },
+        {
+            "id": "65055f0b-4c8b-4930-a24f-3322ba907018",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-full-optional-diesel-rosso-65055f0b-4c8b-4930-a24f-3322ba907018",
+            "title": "2.2 MJT Platino Full optional",
+            "price": "€ 2.700",
+            "km": "210.000 km",
+            "year": "08/2008",
+            "place": "35020 Ponte S. Nicolo - Padova - PD"
+        },
+        {
+            "id": "7040cd95-73d7-4610-a860-2bee5f7cdb30",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-7-posti-unico-proprietario-1-diesel-argento-7040cd95-73d7-4610-a860-2bee5f7cdb30",
+            "title": "2.2 JTD Executive FAP 7 Posti Unico Proprietario 1",
+            "price": "€ 3.900",
+            "km": "170.000 km",
+            "year": "03/2005",
+            "place": "37012 Bussolengo - Verona"
+        },
+        {
+            "id": "442c22ca-7304-be63-e053-0100007f59ed",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-442c22ca-7304-be63-e053-0100007f59ed",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 450",
+            "km": "280.000 km",
+            "year": "09/2003",
+            "place": "35124 Padova"
+        },
+        {
+            "id": "22a32458-0f35-4a63-96ad-94ca03415c9e",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-22a32458-0f35-4a63-96ad-94ca03415c9e",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.100",
+            "km": "310.000 km",
+            "year": "08/2005",
+            "place": "41122 Modena"
+        },
+        {
+            "id": "1c2a4cf1-9312-4e8d-a5aa-7672a8e90386",
+            "href": "/annunci/lancia-phedra-2-2mjt-7posti-automatica-navi-porte-elettr-dx-sx-diesel-grigio-1c2a4cf1-9312-4e8d-a5aa-7672a8e90386",
+            "title": "2.2MJT 7POSTI,AUTOMATICA,NAVI,PORTE ELETTR. DX-SX",
+            "price": "€ 4.390",
+            "km": "175.279 km",
+            "year": "08/2009",
+            "place": "46043 Castiglione delle Stiviere - Mantova - Mn"
+        },
+        {
+            "id": "67e7fa46-e248-4d2d-90f7-d343c25ce6b9",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-oro-plus-136-diesel-lilla-67e7fa46-e248-4d2d-90f7-d343c25ce6b9",
+            "title": "2.0JTD 16v Oro Plus 136",
+            "price": "€ 7.990",
+            "km": "155.991 km",
+            "year": "04/2009",
+            "place": "28046 MADRID"
+        },
+        {
+            "id": "59d7cbfd-9dbf-4119-8593-10dacf0ea63e",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-dpf-diesel-grigio-59d7cbfd-9dbf-4119-8593-10dacf0ea63e",
+            "title": "Phedra 2.2 mjt Platinum 170cv Dpf",
+            "price": "€ 4.800",
+            "km": "148.000 km",
+            "year": "05/2009",
+            "place": "14100 Asti"
+        },
+        {
+            "id": "0239177a-7ec2-4c98-8950-4ce45edaf884",
+            "href": "/annunci/lancia-phedra-platino-diesel-nero-0239177a-7ec2-4c98-8950-4ce45edaf884",
+            "title": "platino",
+            "price": "€ 1.600",
+            "km": "210.000 km",
+            "year": "08/2003",
+            "place": "70010 Adelfia - Bari - BA"
+        },
+        {
+            "id": "afb818c5-7975-4711-8168-53ea57c455fa",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-grigio-afb818c5-7975-4711-8168-53ea57c455fa",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1.950",
+            "km": "200.000 km",
+            "year": "10/2004",
+            "place": "18038 San Remo"
+        },
+        {
+            "id": "4dcbc4ca-9ff3-ab30-e053-0100007fb28a",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-platino-diesel-blu-azzurro-4dcbc4ca-9ff3-ab30-e053-0100007fb28a",
+            "title": "2.0 MJT 136 CV Platino",
+            "price": "€ 4.000",
+            "km": "109.000 km",
+            "year": "05/2008",
+            "place": "00181 Roma"
+        },
+        {
+            "id": "8f5f8dca-ab99-351f-e053-0100007f0a7a",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-plus-diesel-bronzo-8f5f8dca-ab99-351f-e053-0100007f0a7a",
+            "title": "2.0 MJT 136 CV Oro Plus",
+            "price": "€ 3.700 IVA deducibile",
+            "km": "269.000 km",
+            "year": "04/2010",
+            "place": "32032 Feltre"
+        },
+        {
+            "id": "881b9d41-d652-4858-8c2c-81b01a02bc33",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-dpf-connect-nav-diesel-nero-881b9d41-d652-4858-8c2c-81b01a02bc33",
+            "title": "2,2 JTD 16V DPF Connect Nav",
+            "price": "€ 500",
+            "km": "220.000 km",
+            "year": "08/2004",
+            "place": "2231 Strasshof an der Nordbahn"
+        },
+        {
+            "id": "5b9e77ca-eb83-3c49-e053-0100007f2c16",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-grigio-5b9e77ca-eb83-3c49-e053-0100007f2c16",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 999",
+            "km": "300.000 km",
+            "year": "01/2007",
+            "place": "20881 Bernareggio"
+        },
+        {
+            "id": "16a8e7e1-5022-4794-b6fd-3f8af9af69d4",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-limited-edition-diesel-nero-16a8e7e1-5022-4794-b6fd-3f8af9af69d4",
+            "title": "2.2 Multijet 16v DPF Limited Edition",
+            "price": "€ 3.999",
+            "km": "322.600 km",
+            "year": "07/2009",
+            "place": "90431 Nürnberg"
+        },
+        {
+            "id": "77c52344-f4f3-44e0-8cf0-f1ffae632df9",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-grigio-77c52344-f4f3-44e0-8cf0-f1ffae632df9",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 4.900",
+            "km": "221.000 km",
+            "year": "08/2008",
+            "place": "3183 Torrevieja"
+        },
+        {
+            "id": "34c5ed3f-e6cd-4cc3-b2ea-5a7a479b6d5d",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-dpf-motor-springt-nicht-an-diesel-argento-34c5ed3f-e6cd-4cc3-b2ea-5a7a479b6d5d",
+            "title": "2.2 16v JTD DPF ~ Motor springt nicht an",
+            "price": "€ 550",
+            "km": "240.000 km",
+            "year": "02/2004",
+            "place": "86368 Gersthofen"
+        },
+        {
+            "id": "7bc6f0ac-e515-4b21-8626-fbe0750ca453",
+            "href": "/annunci/lancia-phedra-2-0-jtd-dpf-emotion-turbo-schaden-ohne-tuev-diesel-bronzo-7bc6f0ac-e515-4b21-8626-fbe0750ca453",
+            "title": "2.0 JTD DPF Emotion Turbo Schaden ohne TÜV",
+            "price": "€ 799",
+            "km": "219.999 km",
+            "year": "03/2007",
+            "place": "53783 Eitorf"
+        },
+        {
+            "id": "131787ed-d901-40d9-bff6-11ea6ff85ffb",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-diesel-marrone-131787ed-d901-40d9-bff6-11ea6ff85ffb",
+            "title": "2.2 MJT Oro",
+            "price": "€ 2.900",
+            "km": "320 km",
+            "year": "08/2009",
+            "place": "30020 Marcon"
+        },
+        {
+            "id": "e1a09ab4-a280-4539-8807-aa115eb9ff0a",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-cae-executive-diesel-giallo-e1a09ab4-a280-4539-8807-aa115eb9ff0a",
+            "title": "2.0JTD 16v CAE Executive",
+            "price": "€ 3.500",
+            "km": "220.000 km",
+            "year": "01/2005",
+            "place": "46910 ALFAFAR"
+        },
+        {
+            "id": "6366ab14-df99-4fff-b8cb-a40ab481f8d0",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-executive-diesel-blu-azzurro-6366ab14-df99-4fff-b8cb-a40ab481f8d0",
+            "title": "2.0 MJT 136 CV Executive",
+            "price": "€ 5.500",
+            "km": "125.144 km",
+            "year": "02/2008",
+            "place": "03043 Cassino - Frosinone - Fr"
+        },
+        {
+            "id": "210c16cb-7bf2-d270-e053-0100007ffcc1",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-plus-diesel-argento-210c16cb-7bf2-d270-e053-0100007ffcc1",
+            "title": "2.0 MJT 136 CV Oro Plus",
+            "price": "€ 4.000",
+            "km": "198.000 km",
+            "year": "07/2010",
+            "place": "41049 Sassuolo"
+        },
+        {
+            "id": "a698c7aa-7d09-4110-a6de-31f61d71bdb8",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-blu-azzurro-a698c7aa-7d09-4110-a6de-31f61d71bdb8",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 2.000",
+            "km": "300.000 km",
+            "year": "07/2003",
+            "place": "81056 sparanise"
+        },
+        {
+            "id": "41a31a40-7576-41fb-9e69-0b0baba56802",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-beige-41a31a40-7576-41fb-9e69-0b0baba56802",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 3.200",
+            "km": "150.000 km",
+            "year": "02/2007",
+            "place": "80131 Napoli"
+        },
+        {
+            "id": "5263ec4b-dcb0-427b-a5b2-f202b58b53a3",
+            "href": "/annunci/lancia-phedra-2-0jtd-diesel-grigio-5263ec4b-dcb0-427b-a5b2-f202b58b53a3",
+            "title": "2.0jtd",
+            "price": "€ 1.400",
+            "km": "260.000 km",
+            "year": "01/2007",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "4424b4e2-830a-4f55-872c-1d1c59cc24c6",
+            "href": "/annunci/lancia-phedra-2-2-16v-platino-navi-xenon-standheizung-diesel-grigio-4424b4e2-830a-4f55-872c-1d1c59cc24c6",
+            "title": "2.2 16V Platino|NAVI|XENON|STANDHEIZUNG",
+            "price": "€ 3.900",
+            "km": "244.900 km",
+            "year": "12/2008",
+            "place": "72770 Reutlingen-Ohmenhausen"
+        },
+        {
+            "id": "0326389b-0711-4ce0-b362-1262b64b700e",
+            "href": "/annunci/lancia-phedra-2-0-jtd-120-platino-diesel-0326389b-0711-4ce0-b362-1262b64b700e",
+            "title": "2.0 JTD 120 PLATINO",
+            "price": "€ 4.990",
+            "km": "306.000 km",
+            "year": "05/2009",
+            "place": "28700 Auneau"
+        },
+        {
+            "id": "497120ce-6fcd-41e3-adbe-d1834eb117a8",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-platino-dpf-diesel-grigio-497120ce-6fcd-41e3-adbe-d1834eb117a8",
+            "title": "2,0 JTD 16V Platino DPF",
+            "price": "€ 3.700",
+            "km": "173.300 km",
+            "year": "12/2009",
+            "place": "9122 Sankt Kanzian"
+        },
+        {
+            "id": "fe84df33-3ff9-42b7-8e99-dc04ef178741",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-oro-170cv-auto-dpf-diesel-rosso-fe84df33-3ff9-42b7-8e99-dc04ef178741",
+            "title": "Phedra 2.2 mjt Oro 170cv auto Dpf",
+            "price": "€ 3.990",
+            "km": "149.000 km",
+            "year": "06/2010",
+            "place": "10098 Rivoli - Torino"
+        },
+        {
+            "id": "783b1878-98ca-488a-b253-4e9494e27dc8",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-783b1878-98ca-488a-b253-4e9494e27dc8",
+            "title": "2.2 MJT Platino",
+            "price": "€ 1.700",
+            "km": "180.000 km",
+            "year": "09/2009",
+            "place": "10148 torino"
+        },
+        {
+            "id": "51ad043e-d34a-4e58-93fd-d0dfe775562d",
+            "href": "/annunci/lancia-phedra-2-2-jtd-fap-diesel-oro-51ad043e-d34a-4e58-93fd-d0dfe775562d",
+            "title": "2.2 JTD FAP",
+            "price": "€ 2.300",
+            "km": "200.000 km",
+            "year": "04/2006",
+            "place": "79790 Küssaberg"
+        },
+        {
+            "id": "98cc8ea7-05a9-4955-b202-a0d9f389dd7a",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-diesel-blu-azzurro-98cc8ea7-05a9-4955-b202-a0d9f389dd7a",
+            "title": "2.2 16V JTD Executive 7 Sitze",
+            "price": "€ 3.900",
+            "km": "235.000 km",
+            "year": "04/2004",
+            "place": "28832 Achim"
+        },
+        {
+            "id": "6c813e76-3b66-43d0-93b5-5c2f563d0eb7",
+            "href": "/annunci/lancia-phedra-2-0-mjt-emblema-garanzia-lancia-24-mesi-diesel-blu-azzurro-6c813e76-3b66-43d0-93b5-5c2f563d0eb7",
+            "title": "2.0 MJT EMBLEMA \"\"GARANZIA LANCIA 24 MESI\"\"",
+            "price": "€ 4.499",
+            "km": "189.000 km",
+            "year": "07/2007",
+            "place": "89020 Sinopoli - Reggio Calabria"
+        },
+        {
+            "id": "f8588935-02b8-40d5-bece-e5f7632a3e44",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-plus-diesel-blu-azzurro-f8588935-02b8-40d5-bece-e5f7632a3e44",
+            "title": "2.2 MJT CA Oro Plus",
+            "price": "€ 2.750",
+            "km": "185.000 km",
+            "year": "06/2008",
+            "place": "10078 Venaria"
+        },
+        {
+            "id": "495476e4-043d-4ed3-a1d6-2107d41c4a5f",
+            "href": "/annunci/lancia-phedra-2-0-jtd-7p-cruise-ecc-diesel-blu-azzurro-495476e4-043d-4ed3-a1d6-2107d41c4a5f",
+            "title": "2.0 JTD 7P. *CRUISE+ECC*",
+            "price": "€ 3.445",
+            "km": "356.218 km",
+            "year": "10/2007",
+            "place": "7395 SH TEUGE"
+        },
+        {
+            "id": "373a1302-8660-46d2-8ed6-88a729b8f1c5",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-automatik-xenon-memory-diesel-nero-373a1302-8660-46d2-8ed6-88a729b8f1c5",
+            "title": "2.2 Multijet 16v Automatik/Xenon/Memory/",
+            "price": "€ 4.900",
+            "km": "186.000 km",
+            "year": "12/2009",
+            "place": "73457 Essingen (bei Aalen)"
+        },
+        {
+            "id": "fe02b7da-b962-4602-ad60-90746b3d5afd",
+            "href": "/annunci/lancia-phedra-2-2-mjt-limited-edition-diesel-blu-azzurro-fe02b7da-b962-4602-ad60-90746b3d5afd",
+            "title": "2.2 MJT Limited Edition",
+            "price": "€ 5.000",
+            "km": "262.000 km",
+            "year": "09/2010",
+            "place": "10100 Torino"
+        },
+        {
+            "id": "274a59f9-e079-4366-97cc-373772d98eca",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-executive-136-diesel-grigio-274a59f9-e079-4366-97cc-373772d98eca",
+            "title": "2.0JTD 16v Executive 136",
+            "price": "€ 7.490",
+            "km": "150.000 km",
+            "year": "06/2007",
+            "place": "08097 L'Hospitalet de Llobregat"
+        },
+        {
+            "id": "011142f8-456b-44c6-96d3-8a63eb6f0aee",
+            "href": "/annunci/lancia-phedra-2-0-16v-emblema-benzina-blu-azzurro-011142f8-456b-44c6-96d3-8a63eb6f0aee",
+            "title": "2.0-16V Emblema",
+            "price": "€ 950",
+            "km": "238.337 km",
+            "year": "03/2006",
+            "place": "9514CH GASSELTERNIJVEEN"
+        },
+        {
+            "id": "759d2e87-ed20-4705-a8aa-bb15d7f16893",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-diesel-grigio-759d2e87-ed20-4705-a8aa-bb15d7f16893",
+            "title": "2.0 MJT 136 CV",
+            "price": "€ 3.000",
+            "km": "153.000 km",
+            "year": "06/2006",
+            "place": "41042 Fiorano modenese"
+        },
+        {
+            "id": "e41af9b0-9463-41b3-9932-e241378c6007",
+            "href": "/annunci/lancia-phedra-diesel-nero-e41af9b0-9463-41b3-9932-e241378c6007?source=list_searchresults",
+            "title": "Lancia Phedra",
+            "price": "€ 2.100",
+            "km": "250.000 km",
+            "year": "04/2007",
+            "place": "1745 Opwijk"
+        },
+        {
+            "id": "4a2dbaea-1528-4209-8bf8-eba4c9146abe",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-giallo-4a2dbaea-1528-4209-8bf8-eba4c9146abe?source=list_searchresults",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 9.750",
+            "km": "122.148 km",
+            "year": "12/2009",
+            "place": "28027 MADRID"
+        },
+        {
+            "id": "d8f5df57-e3de-4a43-a8fc-5ab418f0a493",
+            "href": "/annunci/lancia-phedra-2-0-multijet-argento-diesel-nero-d8f5df57-e3de-4a43-a8fc-5ab418f0a493?source=list_searchresults",
+            "title": "2.0 multijet argento",
+            "price": "€ 5.300",
+            "km": "201.500 km",
+            "year": "08/2008",
+            "place": "36040 grisignano"
+        },
+        {
+            "id": "b9e7c731-637d-4809-b2a3-8d787d8acb29",
+            "href": "/annunci/lancia-phedra-2-0-16v-jtd-emblema-klima-gr-navi-7sitze-diesel-beige-b9e7c731-637d-4809-b2a3-8d787d8acb29?source=list_searchresults",
+            "title": "2.0 16V JTD Emblema+Klima+Gr.Navi+7SITZE",
+            "price": "€ 4.000",
+            "km": "179.000 km",
+            "year": "02/2006",
+            "place": "47057 Duisburg"
+        },
+        {
+            "id": "3d09ff31-5837-42aa-8d38-9ca0c298a526",
+            "href": "/annunci/lancia-phedra-8-posti-2200cc-gasolio-porte-elettriche-navigatore-diesel-argento-3d09ff31-5837-42aa-8d38-9ca0c298a526?source=list_searchresults",
+            "title": "8 posti 2200cc gasolio porte elettriche navigatore",
+            "price": "€ 4.500",
+            "km": "220.000 km",
+            "year": "01/2004",
+            "place": "29121 Piacenza - Pc"
+        },
+        {
+            "id": "35f5bc62-2260-4e11-8817-5c1de909c1e8",
+            "href": "/annunci/lancia-phedra-2-0jtd-diesel-grigio-35f5bc62-2260-4e11-8817-5c1de909c1e8?source=list_searchresults",
+            "title": "2.0Jtd",
+            "price": "€ 1.500",
+            "km": "265.000 km",
+            "year": "12/2006",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "16f8eec9-8d69-44e1-a273-ba4d76662865",
+            "href": "/annunci/lancia-phedra-2-2jtd-8posti-navi-16-alcantara-128cv-6marce-diesel-nero-16f8eec9-8d69-44e1-a273-ba4d76662865?source=list_searchresults",
+            "title": "2.2jtd,8posti(NAVI\"16\"ALCANTARA)128cv,6marce.",
+            "price": "€ 2.500",
+            "km": "228.000 km",
+            "year": "04/2005",
+            "place": "85050 Balvano - Potenza - Pz"
+        },
+        {
+            "id": "8ba9ad36-0836-40ca-ada3-5fda7b68861c",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-diesel-blu-azzurro-8ba9ad36-0836-40ca-ada3-5fda7b68861c?source=list_searchresults",
+            "title": "2.2 16V JTD Executive 7 Sitze",
+            "price": "€ 3.900",
+            "km": "235.000 km",
+            "year": "04/2004",
+            "place": "28832 Achim"
+        },
+        {
+            "id": "31f6cf1b-ca78-4277-be9a-a45d80b34a49",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-dpf-top-ausstattung-diesel-grigio-31f6cf1b-ca78-4277-be9a-a45d80b34a49?source=list_searchresults",
+            "title": "2.2 Multijet 16v DPF - Top Ausstattung",
+            "price": "€ 4.450",
+            "km": "182.000 km",
+            "year": "06/2008",
+            "place": "81249 München"
+        },
+        {
+            "id": "8681366c-1ef3-4ecd-ae46-de2cdc60731f",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-auto-dpf-diesel-nero-8681366c-1ef3-4ecd-ae46-de2cdc60731f?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv auto Dpf",
+            "price": "€ 3.900",
+            "km": "257.775 km",
+            "year": "03/2009",
+            "place": "37136 Verona - VR"
+        },
+        {
+            "id": "8aac36c2-cdfb-4e6b-a120-ad801f6a8f5f",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-plus-fap-diesel-argento-8aac36c2-cdfb-4e6b-a120-ad801f6a8f5f?source=list_searchresults",
+            "title": "2.2 JTD Emblema Plus FAP",
+            "price": "€ 4.500",
+            "km": "225.000 km",
+            "year": "10/2005",
+            "place": "34076 Romans d'Isonzo"
+        },
+        {
+            "id": "7f9aa304-bf6f-4960-9730-c5197d8c5bf1",
+            "href": "/annunci/lancia-phedra-3-0-24v-v6-emblema-7p-automaat-leder-navi-benzina-nero-7f9aa304-bf6f-4960-9730-c5197d8c5bf1?source=list_searchresults",
+            "title": "3.0-24V V6 Emblema 7P Automaat Leder Navi",
+            "price": "€ 2.995",
+            "km": "227.810 km",
+            "year": "03/2005",
+            "place": "3481 LD HARMELEN"
+        },
+        {
+            "id": "284770fd-4c78-49f8-9d03-7fe5bc32967e",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-7-posti-diesel-grigio-284770fd-4c78-49f8-9d03-7fe5bc32967e?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Emblema 7 posti",
+            "price": "€ 1.990",
+            "km": "252.000 km",
+            "year": "11/2006",
+            "place": "45014 Porto Viro - Rovigo - Ro"
+        },
+        {
+            "id": "a0b47fa4-c5b7-4e50-b9f1-a6497c2be9b6",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-oro-136-diesel-blu-azzurro-a0b47fa4-c5b7-4e50-b9f1-a6497c2be9b6?source=list_searchresults",
+            "title": "2.0JTD 16v Oro 136",
+            "price": "€ 5.500",
+            "km": "172.000 km",
+            "year": "10/2010",
+            "place": "08459 Sant Pere De Vilamajor"
+        },
+        {
+            "id": "8c913e4e-2693-4df3-a444-aae33a01588b",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-automatica-7-posti-diesel-nero-8c913e4e-2693-4df3-a444-aae33a01588b?source=list_searchresults",
+            "title": "2.2 MJT PLATINO AUTOMATICA 7 POSTI!!!",
+            "price": "€ 2.200",
+            "km": "220.000 km",
+            "year": "12/2008",
+            "place": "20835 Muggiò MB"
+        },
+        {
+            "id": "113a6a0a-866c-43c6-a333-9238c82eb129",
+            "href": "/annunci/lancia-phedra-phedra-2-2-jtd-emblema-plus-6m-diesel-blu-azzurro-113a6a0a-866c-43c6-a333-9238c82eb129?source=list_searchresults",
+            "title": "Phedra 2.2 jtd Emblema Plus 6m",
+            "price": "€ 1.900",
+            "km": "225.345 km",
+            "year": "07/2004",
+            "place": "74024 Manduria - Taranto - Ta"
+        },
+        {
+            "id": "65032848-cdbc-418c-89ce-6d050c219e46",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-120cv-7-posti-diesel-oro-65032848-cdbc-418c-89ce-6d050c219e46?source=list_searchresults",
+            "title": "Phedra 2.0 mjt 120cv 7 POSTI",
+            "price": "€ 1.500",
+            "km": "190.000 km",
+            "year": "01/2007",
+            "place": "20016 Pero"
+        },
+        {
+            "id": "b7c1b0d0-8839-40ae-84c6-a699353da40f",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-giallo-b7c1b0d0-8839-40ae-84c6-a699353da40f?source=list_searchresults",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 9.750",
+            "km": "122.148 km",
+            "year": "12/2009",
+            "place": "13300 Valdepeñas"
+        },
+        {
+            "id": "4c1108d0-f1a4-4c8e-aef3-8f3aa11bd05c",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-giallo-4c1108d0-f1a4-4c8e-aef3-8f3aa11bd05c?source=list_searchresults",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 9.750",
+            "km": "122.148 km",
+            "year": "12/2009",
+            "place": "18320 SANTA FE"
+        },
+        {
+            "id": "f8c46f07-a0a8-4a90-986a-882f10c7de31",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-platino-aut-diesel-giallo-f8c46f07-a0a8-4a90-986a-882f10c7de31?source=list_searchresults",
+            "title": "2.2JTD 16v Platino Aut.",
+            "price": "€ 9.750",
+            "km": "122.148 km",
+            "year": "12/2009",
+            "place": "29620 Torremolinos"
+        },
+        {
+            "id": "0878ac91-1051-47fc-a802-084d091c85cc",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-emblema-120-diesel-nero-0878ac91-1051-47fc-a802-084d091c85cc?source=list_searchresults",
+            "title": "2.0JTD 16v Emblema 120",
+            "price": "€ 6.499",
+            "km": "100.000 km",
+            "year": "12/2007",
+            "place": "08940 Cornella de LLobregat"
+        },
+        {
+            "id": "4868326e-2028-4edc-a739-f4b5968d7728",
+            "href": "/annunci/lancia-phedra-diesel-grigio-4868326e-2028-4edc-a739-f4b5968d7728?source=list_searchresults",
+            "title": "Lancia Phedra",
+            "price": "€ 2.500",
+            "km": "208.000 km",
+            "year": "01/2008",
+            "place": "1082 Berchem-Sainte-Agathe"
+        },
+        {
+            "id": "04fd0df4-99e2-4016-a0f8-be1f53f35206",
+            "href": "/annunci/lancia-phedra-2-2-16v-multijet-platino-diesel-grigio-04fd0df4-99e2-4016-a0f8-be1f53f35206?source=list_searchresults",
+            "title": "2.2 16V Multijet Platino",
+            "price": "€ 6.350",
+            "km": "187.000 km",
+            "year": "08/2010",
+            "place": "29640 Schneverdingen"
+        },
+        {
+            "id": "40e2f7b2-edb9-4ca0-9523-2c1bd680264b",
+            "href": "/annunci/lancia-phedra-7-posti-2-0-mjt-136-cv-executive-diesel-grigio-40e2f7b2-edb9-4ca0-9523-2c1bd680264b?source=list_searchresults",
+            "title": "7 posti 2.0 MJT 136 CV Executive",
+            "price": "€ 4.950",
+            "km": "149.000 km",
+            "year": "09/2006",
+            "place": "29121 Piacenza – Pc"
+        },
+        {
+            "id": "36a2b73c-de29-4586-bb20-ec171bffa0b6",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-emblema-diesel-beige-36a2b73c-de29-4586-bb20-ec171bffa0b6?source=list_searchresults",
+            "title": "2.2JTD 16v Emblema",
+            "price": "€ 5.500",
+            "km": "209.347 km",
+            "year": "10/2006",
+            "place": "28500 ARGANDA DEL REY"
+        },
+        {
+            "id": "cbb85e42-4463-4e03-8b9b-265c4fe32a9e",
+            "href": "/annunci/lancia-phedra-2-0-benzina-excecutive-gpl-blu-azzurro-cbb85e42-4463-4e03-8b9b-265c4fe32a9e?source=list_searchresults",
+            "title": "2.0 Benzina Excecutive",
+            "price": "€ 1.500",
+            "km": "217.000 km",
+            "year": "04/2003",
+            "place": "42020 reggio emilia"
+        },
+        {
+            "id": "40d5f5d7-035e-4789-8f40-e8b9b9f3a933",
+            "href": "/annunci/lancia-phedra-phedra-2-2-jtd-emblema-plus-6m-diesel-blu-azzurro-40d5f5d7-035e-4789-8f40-e8b9b9f3a933?source=list_searchresults",
+            "title": "Phedra 2.2 jtd Emblema Plus 6m",
+            "price": "€ 3.000",
+            "km": "218.000 km",
+            "year": "05/2004",
+            "place": "06031 bevagna"
+        },
+        {
+            "id": "cb983ac0-7468-43dd-aa2f-959b62fc24e4",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-argento-120cv-diesel-bronzo-cb983ac0-7468-43dd-aa2f-959b62fc24e4?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Argento 120cv",
+            "price": "€ 4.900",
+            "km": "142.000 km",
+            "year": "04/2010",
+            "place": "10034 Chivasso"
+        },
+        {
+            "id": "4a151c08-97cc-4e85-88ff-23df55f40a2d",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-emblema-136cv-6m-e4-dpf-diesel-beige-4a151c08-97cc-4e85-88ff-23df55f40a2d?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Emblema 136cv 6m E4 Dpf",
+            "price": "€ 3.500",
+            "km": "171.600 km",
+            "year": "01/2007",
+            "place": "56100 Pisa"
+        },
+        {
+            "id": "e7e090c0-9ff2-48d3-b440-895ff0539e0d",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-diesel-blu-azzurro-e7e090c0-9ff2-48d3-b440-895ff0539e0d?source=list_searchresults",
+            "title": "2.2 16V JTD Executive 7 Sitze",
+            "price": "€ 2.900",
+            "km": "235.000 km",
+            "year": "04/2004",
+            "place": "28832 Achim"
+        },
+        {
+            "id": "c00e6d0b-2243-46ae-8fcc-54362197d90c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-c00e6d0b-2243-46ae-8fcc-54362197d90c?source=list_searchresults",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.000",
+            "km": "150.000 km",
+            "year": "10/2003",
+            "place": "41017 Ravarino"
+        },
+        {
+            "id": "8aeee64e-88c6-453d-beb1-2cd1c84db720",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-auto-dpf-diesel-grigio-8aeee64e-88c6-453d-beb1-2cd1c84db720?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv auto Dpf",
+            "price": "€ 3.900",
+            "km": "210.000 km",
+            "year": "06/2009",
+            "place": "29010 Castelvetro Piacentino - Piacenza - Pc"
+        },
+        {
+            "id": "84741d1e-5060-4df7-8de2-c60f88e8f02c",
+            "href": "/annunci/lancia-phedra-2-2-jtd-16v-platino-dpf-diesel-oro-84741d1e-5060-4df7-8de2-c60f88e8f02c?source=list_searchresults",
+            "title": "2,2 JTD 16V Platino DPF",
+            "price": "€ 4.350",
+            "km": "158.000 km",
+            "year": "06/2008",
+            "place": "5231 Schalchen"
+        },
+        {
+            "id": "d781892b-ffa5-4586-9b53-b1846f61df2d",
+            "href": "/annunci/lancia-phedra-2-2-hdi-16v-127cv-5p-7plz-libro-navy-baca-diesel-giallo-d781892b-ffa5-4586-9b53-b1846f61df2d?source=list_searchresults",
+            "title": "2.2 HDI 16v 127cv 5p 7plz #LIBRO, NAVY, BACA",
+            "price": "€ 4.850",
+            "km": "210.740 km",
+            "year": "08/2006",
+            "place": "28025 ALPEDRETE"
+        },
+        {
+            "id": "3a592144-ece8-47ad-acb4-d11673e7012a",
+            "href": "/annunci/lancia-phedra-2-2-hdi-16v-127cv-5p-7plz-libro-navy-baca-diesel-giallo-3a592144-ece8-47ad-acb4-d11673e7012a?source=list_searchresults",
+            "title": "2.2 HDI 16v 127cv 5p 7plz #LIBRO, NAVY, BACA",
+            "price": "€ 4.850",
+            "km": "210.740 km",
+            "year": "08/2006",
+            "place": "28430 ALPEDRETE"
+        },
+        {
+            "id": "6d0cf23f-6172-4c19-a0d2-7bc630090c47",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-grigio-6d0cf23f-6172-4c19-a0d2-7bc630090c47?source=list_searchresults",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 6.499",
+            "km": "223.048 km",
+            "year": "07/2010",
+            "place": "80053 Castellammare di Stabia - Na"
+        },
+        {
+            "id": "6fbd23aa-464d-49ee-bcde-5aa73ad91378",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-platino-dpf-diesel-nero-6fbd23aa-464d-49ee-bcde-5aa73ad91378?source=list_searchresults",
+            "title": "2,0 JTD 16V Platino DPF",
+            "price": "€ 1.100",
+            "km": "230.000 km",
+            "year": "10/2008",
+            "place": "6973 Höchst"
+        },
+        {
+            "id": "731d870f-2bba-49af-9032-228882eaaac4",
+            "href": "/annunci/lancia-phedra-2-2-multijet-170cv-aut-7posti-platino-navi-pdc-bt-diesel-grigio-731d870f-2bba-49af-9032-228882eaaac4?source=list_searchresults",
+            "title": "2.2 MultiJet 170cv aut. 7Posti Platino NAVI-PDC-BT",
+            "price": "€ 6.800",
+            "km": "181.000 km",
+            "year": "04/2010",
+            "place": "10126 TORINO-TO"
+        },
+        {
+            "id": "6c5cb43c-0f95-452f-b709-fe875bd4f222",
+            "href": "/annunci/lancia-phedra-diesel-blu-azzurro-6c5cb43c-0f95-452f-b709-fe875bd4f222?source=list_searchresults",
+            "title": "Lancia Phedra",
+            "price": "€ 3.000",
+            "km": "190.000 km",
+            "year": "04/2004",
+            "place": "85100 Potenza"
+        },
+        {
+            "id": "b311c4e7-e15c-48c8-a859-73ce4d89a043",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-nero-b311c4e7-e15c-48c8-a859-73ce4d89a043?source=list_searchresults",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 3.800",
+            "km": "233.000 km",
+            "year": "08/2009",
+            "place": "25030 BS"
+        },
+        {
+            "id": "c7ac5dcd-9332-4118-8e93-fcd75c19dc13",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-argento-136cv-dpf-diesel-marrone-c7ac5dcd-9332-4118-8e93-fcd75c19dc13?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Argento 136cv Dpf",
+            "price": "€ 6.000",
+            "km": "162.000 km",
+            "year": "09/2010",
+            "place": "42015 correggio"
+        },
+        {
+            "id": "b793c861-1421-4fae-9c68-b237bbdd2efe",
+            "href": "/annunci/lancia-phedra-2-0-multijet-16v-argento-7pl-diesel-argento-b793c861-1421-4fae-9c68-b237bbdd2efe?source=list_searchresults",
+            "title": "2.0 Multijet 16v Argento 7pl.",
+            "price": "€ 2.200",
+            "km": "208.000 km",
+            "year": "01/2008",
+            "place": "1080 Bruxelles"
+        },
+        {
+            "id": "d4ea7024-af13-4626-8c6a-29735500a14a",
+            "href": "/annunci/lancia-phedra-2-2-multijet-16v-limited-edit-6pl-fap-diesel-blu-azzurro-d4ea7024-af13-4626-8c6a-29735500a14a?source=list_searchresults",
+            "title": "2.2 Multijet 16v Limited Edit. 6pl. FAP",
+            "price": "€ 1.500",
+            "km": "298.000 km",
+            "year": "03/2009",
+            "place": "1050 ixelles"
+        },
+        {
+            "id": "749b4464-6065-4f17-b5f0-719809a3c458",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-grigio-749b4464-6065-4f17-b5f0-719809a3c458?source=list_searchresults",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 6.499",
+            "km": "223.048 km",
+            "year": "07/2010",
+            "place": "80053 Castellammare di Stabia - Na"
+        },
+        {
+            "id": "962eb139-7713-4b48-a3e4-9b16ae5a43a3",
+            "href": "/annunci/lancia-phedra-2-2-jtd-platino-7-posti-diesel-grigio-962eb139-7713-4b48-a3e4-9b16ae5a43a3?source=list_searchresults",
+            "title": "2.2 JTD Platino 7 Posti",
+            "price": "€ 2.900",
+            "km": "177.000 km",
+            "year": "12/2005",
+            "place": "06129 Perugia Pg - Perugia - PG"
+        },
+        {
+            "id": "3859a529-d475-4020-8c24-0d2f8df598ce",
+            "href": "/annunci/lancia-phedra-emblema-diesel-grigio-3859a529-d475-4020-8c24-0d2f8df598ce?source=list_searchresults",
+            "title": "Emblema",
+            "price": "€ 7.400",
+            "km": "240.000 km",
+            "year": "05/2010",
+            "place": "09125 Cagliari"
+        },
+        {
+            "id": "dde74c67-58db-4ee3-96d8-28d36d465b28",
+            "href": "/annunci/lancia-phedra-limited-edition-motore-nuovo-garnazia-diesel-dde74c67-58db-4ee3-96d8-28d36d465b28?source=list_searchresults",
+            "title": "LIMITED EDITION **MOTORE NUOVO GARNAZIA**",
+            "price": "€ 9.998",
+            "km": "2.500 km",
+            "year": "02/2009",
+            "place": "89020 Sinopoli - Reggio Calabria"
+        },
+        {
+            "id": "7366f2a1-8358-4ac7-b9e9-284c8570f768",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-emblema-136cv-6m-e4-dpf-diesel-beige-7366f2a1-8358-4ac7-b9e9-284c8570f768?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Emblema 136cv 6m E4 Dpf",
+            "price": "€ 2.500",
+            "km": "171.600 km",
+            "year": "01/2007",
+            "place": "56121 Pisa"
+        },
+        {
+            "id": "1aeaca34-2afc-465a-9b11-e9907d413cce",
+            "href": "/annunci/lancia-phedra-2-0-multijet-136cv-argento-diesel-nero-1aeaca34-2afc-465a-9b11-e9907d413cce?source=list_searchresults",
+            "title": "2.0 multijet 136cv Argento",
+            "price": "€ 4.500",
+            "km": "202.000 km",
+            "year": "08/2008",
+            "place": "36040 grisignano"
+        },
+        {
+            "id": "78a8e2f0-1e19-44d0-9ebb-27d83dbc8e5e",
+            "href": "/annunci/lancia-phedra-2-2jtd-170-automatik-diesel-blu-azzurro-78a8e2f0-1e19-44d0-9ebb-27d83dbc8e5e?source=list_searchresults",
+            "title": "2.2Jtd 170 Automatik",
+            "price": "€ 2.600",
+            "km": "266.000 km",
+            "year": "02/2009",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "60e40372-d81a-4e3b-9dde-31fbe5f68f9d",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-argento-136cv-dpf-diesel-argento-60e40372-d81a-4e3b-9dde-31fbe5f68f9d?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Argento 136cv Dpf",
+            "price": "€ 2.500",
+            "km": "260.000 km",
+            "year": "05/2009",
+            "place": "80128 napoli"
+        },
+        {
+            "id": "e2f49edb-4a82-4b68-a200-5554515c6034",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-plus-fap-diesel-grigio-e2f49edb-4a82-4b68-a200-5554515c6034?source=list_searchresults",
+            "title": "2.2 JTD Emblema Plus FAP",
+            "price": "€ 2.500",
+            "km": "190.214 km",
+            "year": "11/2005",
+            "place": "96100 Siracusa - SR"
+        },
+        {
+            "id": "409c1826-f61a-4d6d-8784-d72ec8a77456",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-oro-plus-aut-diesel-beige-409c1826-f61a-4d6d-8784-d72ec8a77456?source=list_searchresults",
+            "title": "2.2JTD 16v Oro Plus Aut.",
+            "price": "€ 9.500",
+            "km": "129.833 km",
+            "year": "01/2009",
+            "place": "23700 LINARES"
+        },
+        {
+            "id": "f941c0f9-969b-466d-acb1-8cc4e8b544ca",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-dpf-diesel-argento-f941c0f9-969b-466d-acb1-8cc4e8b544ca?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv Dpf",
+            "price": "€ 5.500",
+            "km": "174.000 km",
+            "year": "06/2010",
+            "place": "10139 Torino"
+        },
+        {
+            "id": "98be75da-9343-44af-a21b-0df63bc9654a",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-emblema-136cv-6m-e4-dpf-diesel-marrone-98be75da-9343-44af-a21b-0df63bc9654a?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Emblema 136cv 6m E4 Dpf",
+            "price": "€ 1.500",
+            "km": "282.000 km",
+            "year": "12/2008",
+            "place": "42011 Bagnolo In Piano"
+        },
+        {
+            "id": "c75240d6-ac82-4ce4-9e3b-abd5682c3ffe",
+            "href": "/annunci/lancia-phedra-2-2-schaltgetriebe-tabacco-interieur-7-sitzer-diesel-nero-c75240d6-ac82-4ce4-9e3b-abd5682c3ffe?source=list_searchresults",
+            "title": "2.2*Schaltgetriebe*Tabacco Interieur*7 Sitzer",
+            "price": "€ 7.950",
+            "km": "149.000 km",
+            "year": "07/2010",
+            "place": "75217 Birkenfeld bei Pforzheim"
+        },
+        {
+            "id": "db9a4c33-b53d-4843-a24c-55b0f138341c",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-emblema-diesel-grigio-db9a4c33-b53d-4843-a24c-55b0f138341c?source=list_searchresults",
+            "title": "2.2JTD 16v Emblema",
+            "price": "€ 2.490",
+            "km": "256.000 km",
+            "year": "08/2005",
+            "place": "48950 ERANDIO"
+        },
+        {
+            "id": "e836809c-4039-4236-97c4-412f1a619765",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-oro-plus-136cv-dpf-diesel-beige-e836809c-4039-4236-97c4-412f1a619765?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Oro Plus 136cv Dpf",
+            "price": "€ 3.990",
+            "km": "189.107 km",
+            "year": "08/2008",
+            "place": "10100 Torino - To"
+        },
+        {
+            "id": "23bf1000-3461-47c2-a5ba-399050f5c0c1",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-platino-diesel-grigio-23bf1000-3461-47c2-a5ba-399050f5c0c1?source=list_searchresults",
+            "title": "2.2 MJT CA Platino",
+            "price": "€ 6.499",
+            "km": "223.048 km",
+            "year": "07/2010",
+            "place": "80053 Castellammare di Stabia - Na"
+        },
+        {
+            "id": "e37bc206-45ad-428b-8173-aabe4ea74397",
+            "href": "/annunci/lancia-phedra-2-0-jtd-16v-platino-dpf-diesel-nero-e37bc206-45ad-428b-8173-aabe4ea74397?source=list_searchresults",
+            "title": "2,0 JTD 16V Platino DPF",
+            "price": "€ 3.600",
+            "km": "287.000 km",
+            "year": "08/2008",
+            "place": "6068 Mils"
+        },
+        {
+            "id": "fcc0b9e3-1268-4ece-b05f-e4bc1ea9fcfc",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-diesel-grigio-fcc0b9e3-1268-4ece-b05f-e4bc1ea9fcfc?source=list_searchresults",
+            "title": "2.2 MJT Platino",
+            "price": "€ 5.900",
+            "km": "174.000 km",
+            "year": "06/2010",
+            "place": "10141 Torino - TO"
+        },
+        {
+            "id": "f13f6f31-e4ec-403c-ad72-2502be1c1ff6",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-bronzo-f13f6f31-e4ec-403c-ad72-2502be1c1ff6?source=list_searchresults",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.500",
+            "km": "284.000 km",
+            "year": "01/2004",
+            "place": "87012 Castrovillari"
+        },
+        {
+            "id": "aa84b246-dfd7-4f23-9a86-4c2b9e7271dd",
+            "href": "/annunci/lancia-phedra-2-2jtd-8posti-navi-16-alcantara-128cv-6marce-diesel-nero-aa84b246-dfd7-4f23-9a86-4c2b9e7271dd?source=list_searchresults",
+            "title": "2.2jtd,8posti(NAVI\"16\"ALCANTARA)128cv,6marce.",
+            "price": "€ 2.000",
+            "km": "230.000 km",
+            "year": "04/2005",
+            "place": "85050 Balvano - Potenza - Pz"
+        },
+        {
+            "id": "209aa8d4-8175-4711-bcd0-003e2985d67c",
+            "href": "/annunci/lancia-phedra-phedra-2-2-jtd-emblema-plus-6m-diesel-blu-azzurro-209aa8d4-8175-4711-bcd0-003e2985d67c?source=list_searchresults",
+            "title": "Phedra 2.2 jtd Emblema Plus 6m",
+            "price": "€ 1.600",
+            "km": "250.000 km",
+            "year": "11/2004",
+            "place": "00179 Roma"
+        },
+        {
+            "id": "5617109f-4542-4231-bb47-8890935407c0",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-diesel-blu-azzurro-5617109f-4542-4231-bb47-8890935407c0?source=list_searchresults",
+            "title": "2.2 16V JTD Executive 7 Sitze",
+            "price": "€ 2.900",
+            "km": "235.000 km",
+            "year": "04/2004",
+            "place": "28832 Achim"
+        },
+        {
+            "id": "06fea8f3-dd9f-4316-927d-23e9884c1069",
+            "href": "/annunci/lancia-phedra-fiat-ulysse-2-2-jtd-emotion-7-posti-diesel-bianco-06fea8f3-dd9f-4316-927d-23e9884c1069?source=list_searchresults",
+            "title": "FIAT ULYSSE 2.2 JTD Emotion ( 7 POSTI )",
+            "price": "€ 5.500",
+            "km": "211.418 km",
+            "year": "06/2007",
+            "place": "84030 Atena Lucana"
+        },
+        {
+            "id": "78de9d98-dc3b-493f-bb56-e58e5d137df2",
+            "href": "/annunci/lancia-phedra-7-posti-2-0-mjt-136-cv-executive-diesel-grigio-78de9d98-dc3b-493f-bb56-e58e5d137df2?source=list_searchresults",
+            "title": "7 posti 2.0 MJT 136 CV Executive",
+            "price": "€ 4.950",
+            "km": "149.000 km",
+            "year": "09/2006",
+            "place": "29121 Piacenza – Pc"
+        },
+        {
+            "id": "bf26597a-4ae4-4ce4-98ed-5d8d00d3e646",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-7-posti-diesel-grigio-bf26597a-4ae4-4ce4-98ed-5d8d00d3e646?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Emblema 7 posti",
+            "price": "€ 1.990",
+            "km": "252.000 km",
+            "year": "11/2006",
+            "place": "45014 Porto Viro - Rovigo - Ro"
+        },
+        {
+            "id": "0ee06031-2d07-4a7b-a7ff-4693fbb3c3a6",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-executive-136cv-6m-e4-dpf-diesel-beige-0ee06031-2d07-4a7b-a7ff-4693fbb3c3a6?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Executive 136cv 6m E4 dpf",
+            "price": "€ 8.400",
+            "km": "97.386 km",
+            "year": "01/2008",
+            "place": "26900 Lodi - Lo"
+        },
+        {
+            "id": "317143d0-6d8b-4bb7-b7b4-3bcd010a4556",
+            "href": "/annunci/lancia-phedra-phedra-2-0-jtd-16v-executive-auto-diesel-argento-317143d0-6d8b-4bb7-b7b4-3bcd010a4556?source=list_searchresults",
+            "title": "Phedra 2.0 jtd 16v Executive auto",
+            "price": "€ 4.500",
+            "km": "160.000 km",
+            "year": "01/2005",
+            "place": "04100 Latina - Lt"
+        },
+        {
+            "id": "46fe81e4-2a1d-4d4f-80c6-63c90ece09a2",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-grigio-46fe81e4-2a1d-4d4f-80c6-63c90ece09a2?source=list_searchresults",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 2.500",
+            "km": "365.000 km",
+            "year": "05/2003",
+            "place": "06068 Tavernelle Di Panicale - Perugia - PG"
+        },
+        {
+            "id": "4b49353b-886d-433a-bcce-ba3944b1f169",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-136cv-6m-e4-dpf-diesel-argento-4b49353b-886d-433a-bcce-ba3944b1f169?source=list_searchresults",
+            "title": "Phedra 2.0 mjt 136cv 6m E4 dpf",
+            "price": "€ 900",
+            "km": "252.000 km",
+            "year": "06/2006",
+            "place": "74122 taranto"
+        },
+        {
+            "id": "dc9e119b-4775-4145-b883-b8c8ed476234",
+            "href": "/annunci/lancia-phedra-2-0jtd-16v-executive-136-diesel-blu-azzurro-dc9e119b-4775-4145-b883-b8c8ed476234?source=list_searchresults",
+            "title": "2.0JTD 16v Executive 136",
+            "price": "€ 4.450",
+            "km": "243.000 km",
+            "year": "05/2008",
+            "place": "28232 LAS ROZAS"
+        },
+        {
+            "id": "48dc8043-0dee-486d-adcd-700b5e302a7f",
+            "href": "/annunci/lancia-phedra-2-2-mjt-platino-cambio-autom-navigatore-full-opt-diesel-argento-48dc8043-0dee-486d-adcd-700b5e302a7f?source=list_searchresults",
+            "title": "2.2 MJT Platino Cambio Autom. Navigatore Full Opt.",
+            "price": "€ 2.990",
+            "km": "295.000 km",
+            "year": "08/2008",
+            "place": "36013 Piovene Rocchette – Vicenza – Vi"
+        },
+        {
+            "id": "982475b3-c592-48ed-bbc3-94965c96d695",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-oro-diesel-bronzo-982475b3-c592-48ed-bbc3-94965c96d695?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Oro",
+            "price": "€ 4.200",
+            "km": "177.000 km",
+            "year": "06/2009",
+            "place": "15048 Valenza - Alessandria - AL"
+        },
+        {
+            "id": "997b7bd2-933d-43c9-8267-9f918eefbe91",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-dpf-diesel-marrone-997b7bd2-933d-43c9-8267-9f918eefbe91?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv dpf",
+            "price": "€ 4.270",
+            "km": "142.931 km",
+            "year": "10/2008",
+            "place": "26838 Tavazzano con Villavesco - Lodi - Lo"
+        },
+        {
+            "id": "0587c18c-90e1-4d61-bee9-607562b03b07",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-platino-navigatore-7-posti-diesel-beige-0587c18c-90e1-4d61-bee9-607562b03b07?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Platino\"NAVIGATORE\"7 POSTI",
+            "price": "€ 4.700",
+            "km": "210.000 km",
+            "year": "10/2010",
+            "place": "70051 Barletta"
+        },
+        {
+            "id": "0edd85c5-efb6-42b5-b4be-8e4d149853c4",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-6marce-navi-clima-auto-velluto-diesel-blu-azzurro-0edd85c5-efb6-42b5-b4be-8e4d149853c4?source=list_searchresults",
+            "title": "2.2 jtd Emblema 6marce, Navi, Clima Auto, Velluto",
+            "price": "€ 4.000",
+            "km": "223.000 km",
+            "year": "09/2004",
+            "place": "33030 Buia - UD"
+        },
+        {
+            "id": "38ba2b05-7374-443b-be2a-1a2ae8dbda31",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-bronzo-38ba2b05-7374-443b-be2a-1a2ae8dbda31?source=list_searchresults",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 4.700",
+            "km": "209.770 km",
+            "year": "02/2009",
+            "place": "42025 Cavriago - Reggio Emilia"
+        },
+        {
+            "id": "39ba62ab-57cb-42f9-b3ef-9cab8fe3df7d",
+            "href": "/annunci/lancia-phedra-2-2-16v-jtd-executive-7-sitze-diesel-blu-azzurro-39ba62ab-57cb-42f9-b3ef-9cab8fe3df7d?source=list_searchresults",
+            "title": "2.2 16V JTD Executive 7 Sitze",
+            "price": "€ 2.900",
+            "km": "235.000 km",
+            "year": "04/2004",
+            "place": "28832 Achim"
+        },
+        {
+            "id": "b08c4de8-49ee-4d8f-bb63-816c6f2cf4b2",
+            "href": "/annunci/lancia-phedra-2-2-jtd-executive-fap-diesel-blu-azzurro-b08c4de8-49ee-4d8f-bb63-816c6f2cf4b2?source=list_searchresults",
+            "title": "2.2 JTD Executive FAP",
+            "price": "€ 1.800",
+            "km": "250.000 km",
+            "year": "04/2004",
+            "place": "00137 Roma"
+        },
+        {
+            "id": "ec09bb55-9720-477e-9982-a01656f9d4ac",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-nero-ec09bb55-9720-477e-9982-a01656f9d4ac?source=list_searchresults",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1",
+            "km": "150.000 km",
+            "year": "07/2004",
+            "place": "10093 Collegno"
+        },
+        {
+            "id": "f3bf8297-be20-42df-b103-616c24d75ce5",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-diesel-grigio-f3bf8297-be20-42df-b103-616c24d75ce5?source=list_searchresults",
+            "title": "2.0 MJT 136 CV",
+            "price": "€ 4.500",
+            "km": "195.000 km",
+            "year": "10/2006",
+            "place": "06083 Bastia Umbria - Perugia - Pg"
+        },
+        {
+            "id": "25d3b20b-03b4-4346-9a6a-b692bac87616",
+            "href": "/annunci/lancia-phedra-2-0-multijet-16v-dpf-platino-diesel-nero-25d3b20b-03b4-4346-9a6a-b692bac87616?source=list_searchresults",
+            "title": "2.0 Multijet 16v DPF Platino",
+            "price": "€ 5.500",
+            "km": "207.000 km",
+            "year": "10/2009",
+            "place": "5643LR Eindhoven"
+        },
+        {
+            "id": "2aa1942d-639a-43a7-ba73-c211dfe8711d",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-7-posti-tetto-diesel-blu-azzurro-2aa1942d-639a-43a7-ba73-c211dfe8711d?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Emblema 7 posti tetto",
+            "price": "€ 1.990",
+            "km": "299.655 km",
+            "year": "09/2007",
+            "place": "33050 Bagnaria Arsa - Udine - Ud"
+        },
+        {
+            "id": "41c6e90a-7f2b-46f3-945a-0112f1a7030f",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-oro-plus-170cv-auto-dpf-diesel-grigio-41c6e90a-7f2b-46f3-945a-0112f1a7030f?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Oro Plus 170cv auto dpf",
+            "price": "€ 5.500",
+            "km": "210.000 km",
+            "year": "06/2009",
+            "place": "80013 casalnuovo di Napoli"
+        },
+        {
+            "id": "239a3458-5ded-4367-befb-70e84042d410",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-auto-dpf-diesel-nero-239a3458-5ded-4367-befb-70e84042d410?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv auto Dpf",
+            "price": "€ 3.400",
+            "km": "257.775 km",
+            "year": "03/2009",
+            "place": "37136 Verona - VR"
+        },
+        {
+            "id": "7e7b3e09-df2a-4fdc-93c9-c8bdc4bc3f9f",
+            "href": "/annunci/lancia-phedra-2-2-mjt-ca-oro-plus-diesel-grigio-7e7b3e09-df2a-4fdc-93c9-c8bdc4bc3f9f?source=list_searchresults",
+            "title": "2.2 MJT CA Oro Plus",
+            "price": "€ 5.900",
+            "km": "202.000 km",
+            "year": "10/2009",
+            "place": "36075 Montecchio Maggiore - Vi"
+        },
+        {
+            "id": "b79db2e7-ced5-4cd7-a1a9-e815cfb65f27",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-plus-diesel-bronzo-b79db2e7-ced5-4cd7-a1a9-e815cfb65f27?source=list_searchresults",
+            "title": "2.2 MJT Oro Plus",
+            "price": "€ 4.700",
+            "km": "209.770 km",
+            "year": "02/2009",
+            "place": "42025 Cavriago - Reggio Emilia"
+        },
+        {
+            "id": "38122249-5f49-4201-8d76-5185ce07ac0b",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-auto-dpf-diesel-argento-38122249-5f49-4201-8d76-5185ce07ac0b?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv auto dpf",
+            "price": "€ 5.000",
+            "km": "105.000 km",
+            "year": "01/2009",
+            "place": "20090 Milano"
+        },
+        {
+            "id": "d53a455f-9513-4d67-81d5-864e240e8cca",
+            "href": "/annunci/lancia-phedra-2000-benzina-gpl-argento-d53a455f-9513-4d67-81d5-864e240e8cca?source=list_searchresults",
+            "title": "2000 benzina",
+            "price": "€ 7.000",
+            "km": "185.000 km",
+            "year": "05/2003",
+            "place": "35142 Padova"
+        },
+        {
+            "id": "0c59a7a7-23fd-45f7-9659-2b79a9db8f95",
+            "href": "/annunci/lancia-phedra-phedra-2-0-mjt-oro-plus-136cv-dpf-diesel-grigio-0c59a7a7-23fd-45f7-9659-2b79a9db8f95?source=list_searchresults",
+            "title": "Phedra 2.0 mjt Oro Plus 136cv dpf",
+            "price": "€ 3.500 IVA deducibile",
+            "km": "240.000 km",
+            "year": "05/2009",
+            "place": "88100 CATANZARO"
+        },
+        {
+            "id": "527152cd-925d-4af8-9a25-5b396a13cfce",
+            "href": "/annunci/lancia-phedra-2-2-16v-multijet-platino-navi-xenon-diesel-grigio-527152cd-925d-4af8-9a25-5b396a13cfce?source=list_searchresults",
+            "title": "2.2 16V Multijet Platino - Navi - Xenon",
+            "price": "€ 4.180",
+            "km": "284.000 km",
+            "year": "06/2008",
+            "place": "73565 Spraitbach"
+        },
+        {
+            "id": "4b2d43e8-41e6-4d13-91b2-1e9154c9498c",
+            "href": "/annunci/lancia-phedra-7-posti-2-0-mjt-136-cv-executive-diesel-grigio-4b2d43e8-41e6-4d13-91b2-1e9154c9498c?source=list_searchresults",
+            "title": "7 posti 2.0 MJT 136 CV Executive",
+            "price": "€ 3.550",
+            "km": "149.000 km",
+            "year": "09/2006",
+            "place": "29121 Piacenza – Pc"
+        },
+        {
+            "id": "39e3e8d6-8c1a-4341-b914-ec13d705dc07",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-platinum-170cv-auto-dpf-diesel-grigio-39e3e8d6-8c1a-4341-b914-ec13d705dc07?source=list_searchresults",
+            "title": "Phedra 2.2 mjt Platinum 170cv auto dpf",
+            "price": "€ 3.690",
+            "km": "202.000 km",
+            "year": "06/2010",
+            "place": "46040 Piubega"
+        },
+        {
+            "id": "d7d938e4-4d1d-41d1-bc33-26e46e7b32a3",
+            "href": "/annunci/lancia-phedra-2-0jtd-model-2007-diesel-grigio-d7d938e4-4d1d-41d1-bc33-26e46e7b32a3?source=list_searchresults",
+            "title": "2.0Jtd Model 2007",
+            "price": "€ 1.500",
+            "km": "269.000 km",
+            "year": "12/2006",
+            "place": "1210 Wien"
+        },
+        {
+            "id": "e40a9baa-28fa-4902-8d9d-55c9eddb6784",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-emblema-diesel-blu-azzurro-e40a9baa-28fa-4902-8d9d-55c9eddb6784?source=list_searchresults",
+            "title": "2.2JTD 16v Emblema",
+            "price": "€ 3.900 IVA deducibile",
+            "km": "162.500 km",
+            "year": "05/2005",
+            "place": "16670 EL PROVENCIO"
+        },
+        {
+            "id": "75bb55b7-865b-439f-b4f8-d333923d4b44",
+            "href": "/annunci/lancia-phedra-2-2-jtd-emblema-fap-diesel-nero-75bb55b7-865b-439f-b4f8-d333923d4b44?source=list_searchresults",
+            "title": "2.2 JTD Emblema FAP",
+            "price": "€ 1",
+            "km": "155.000 km",
+            "year": "02/2003",
+            "place": "10093 Collegno"
+        },
+        {
+            "id": "ac93f982-c5e9-410b-ae1c-73b56dab37d6",
+            "href": "/annunci/lancia-phedra-2-2-mjt-oro-diesel-bronzo-ac93f982-c5e9-410b-ae1c-73b56dab37d6?source=list_searchresults",
+            "title": "2.2 MJT Oro",
+            "price": "€ 5.000",
+            "km": "244.000 km",
+            "year": "02/2009",
+            "place": "10124 Torino"
+        },
+        {
+            "id": "c36a001c-4ec9-4e31-8c34-1404f1303d45",
+            "href": "/annunci/lancia-phedra-2-0-16v-multijet-emblema-shz-7-sitzer-diesel-grigio-c36a001c-4ec9-4e31-8c34-1404f1303d45?source=list_searchresults",
+            "title": "2.0 16V Multijet Emblema*SHZ*7-Sitzer*",
+            "price": "€ 2.750",
+            "km": "200.000 km",
+            "year": "05/2007",
+            "place": "71717 Beilstein"
+        },
+        {
+            "id": "128271e9-5956-4a6a-b519-521149d4ebe0",
+            "href": "/annunci/lancia-phedra-2-2jtd-16v-emblema-diesel-beige-128271e9-5956-4a6a-b519-521149d4ebe0?source=list_searchresults",
+            "title": "2.2JTD 16v Emblema",
+            "price": "€ 5.500",
+            "km": "209.347 km",
+            "year": "10/2006",
+            "place": "28500 ARGANDA DEL REY"
+        },
+        {
+            "id": "c284207c-802f-4f1d-83e5-3846ad9e2de0",
+            "href": "/annunci/lancia-phedra-2-0-mjt-120-cv-executive-diesel-oro-c284207c-802f-4f1d-83e5-3846ad9e2de0?source=list_searchresults",
+            "title": "2.0 MJT 120 CV Executive",
+            "price": "€ 4.500",
+            "km": "135 km",
+            "year": "02/2007",
+            "place": "20092 Cinisello Balsamo - Mi"
+        },
+        {
+            "id": "4125fdfb-82c7-437f-8889-aa405e9dd9a7",
+            "href": "/annunci/lancia-phedra-phedra-2-2-mjt-le-170cv-auto-dpf-diesel-blu-azzurro-4125fdfb-82c7-437f-8889-aa405e9dd9a7?source=list_searchresults",
+            "title": "Phedra 2.2 mjt LE 170cv auto dpf",
+            "price": "€ 4.500 IVA deducibile",
+            "km": "140.000 km",
+            "year": "03/2010",
+            "place": "00156 Roma"
+        },
+        {
+            "id": "25b81e57-7ad7-4f19-8d47-f59080e0e297",
+            "href": "/annunci/lancia-phedra-eblema-gpl-argento-25b81e57-7ad7-4f19-8d47-f59080e0e297?source=list_searchresults",
+            "title": "Eblema",
+            "price": "€ 4.500",
+            "km": "185.000 km",
+            "year": "04/2003",
+            "place": "35142 Padova"
+        },
+        {
+            "id": "71146982-be71-4eb6-997c-eaff8f26ab51",
+            "href": "/annunci/lancia-phedra-2-0-mjt-136-cv-emblema-diesel-bronzo-71146982-be71-4eb6-997c-eaff8f26ab51?source=list_searchresults",
+            "title": "2.0 MJT 136 CV Emblema",
+            "price": "€ 3.000",
+            "km": "225.000 km",
+            "year": "05/2007",
+            "place": "19020 ceparana bolano"
+        }
+    ]
+}
